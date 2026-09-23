@@ -1,0 +1,65 @@
+name: Daily Court Auction Collection & Analysis Pipeline
+
+on:
+  schedule:
+    # 매일 한국 시간 06:00 KST = UTC 21:00 (전날)
+    - cron: '0 21 * * *'
+  workflow_dispatch: # GitHub 웹 UI에서 수동 즉시 실행 지원
+
+concurrency:
+  group: 'auction-pipeline'
+  cancel-in-progress: false
+
+jobs:
+  run-pipeline:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Step 1. Court Auction Crawler (법원경매정보 수집)
+        env:
+          MOLIT_SERVICE_KEY: ${{ secrets.MOLIT_SERVICE_KEY }}
+        run: |
+          echo "=== Starting Court Auction Crawling ==="
+          python3 -u scripts/crawl.py
+          echo "=== Properties Data Collected ==="
+
+      - name: Step 2. Market Comps & Financial Valuation Analysis (시세·세금·순이익 분석)
+        env:
+          MOLIT_SERVICE_KEY: ${{ secrets.MOLIT_SERVICE_KEY }}
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+        run: |
+          echo "=== Running Financial Valuation & Rights Analysis ==="
+          python3 -u scripts/analyze.py
+          echo "=== Analysis Generated ==="
+
+      - name: Step 3. Self-Calibration & Outcome Tracking Loop (자기고도화 추적)
+        run: |
+          echo "=== Running Calibration & Performance Tracking ==="
+          python3 -u scripts/track.py
+          echo "=== Calibration Cycle Complete ==="
+
+      - name: Step 4. Commit and Push Updated Data
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action [Auction Bot]"
+          git add data/ blog_top10.html
+          if git diff --staged --quiet; then
+            echo "No data changes to commit."
+          else
+            git commit -m "chore(auto): daily court auction data update [$(date +'%Y-%m-%d %H:%M') KST]"
+            git pull --rebase origin main
+            git push origin main
+          fi

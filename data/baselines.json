@@ -1,0 +1,91 @@
+{
+  "updated_at": "2026-09-22T06:00:00+09:00",
+  "nationwide": {
+    "mean_sale_ratio": 0.825,
+    "std_sale_ratio": 0.085,
+    "base_bidders": 5.4
+  },
+  "regions": {
+    "서울특별시": {
+      "아파트": {
+        "mean_sale_ratio": 0.915,
+        "std_sale_ratio": 0.065,
+        "base_bidders": 8.2
+      },
+      "오피스텔": {
+        "mean_sale_ratio": 0.812,
+        "std_sale_ratio": 0.082,
+        "base_bidders": 4.6
+      },
+      "연립다세대": {
+        "mean_sale_ratio": 0.774,
+        "std_sale_ratio": 0.098,
+        "base_bidders": 3.8
+      }
+    },
+    "경기도": {
+      "아파트": {
+        "mean_sale_ratio": 0.864,
+        "std_sale_ratio": 0.072,
+        "base_bidders": 7.1
+      },
+      "오피스텔": {
+        "mean_sale_ratio": 0.768,
+        "std_sale_ratio": 0.088,
+        "base_bidders": 3.9
+      },
+      "연립다세대": {
+        "mean_sale_ratio": 0.725,
+        "std_sale_ratio": 0.105,
+        "base_bidders": 3.1
+      }
+    },
+    "인천광역시": {
+      "아파트": {
+        "mean_sale_ratio": 0.832,
+        "std_sale_ratio": 0.078,
+        "base_bidders": 6.3
+      },
+      "오피스텔": {
+        "mean_sale_ratio": 0.735,
+        "std_sale_ratio": 0.094,
+        "base_bidders": 3.2
+      },
+      "연립다세대": {
+        "mean_sale_ratio": 0.698,
+        "std_sale_ratio": 0.112,
+        "base_bidders": 2.7
+      }
+    }
+  },
+  "district_adjustments": {
+    "서울특별시 송파구": {
+      "ratio_offset": 0.035,
+      "bidder_offset": 2.4
+    },
+    "서울특별시 마포구": {
+      "ratio_offset": 0.025,
+      "bidder_offset": 1.8
+    },
+    "서울특별시 노원구": {
+      "ratio_offset": -0.015,
+      "bidder_offset": 0.5
+    },
+    "경기도 성남시 분당구": {
+      "ratio_offset": 0.030,
+      "bidder_offset": 2.2
+    },
+    "경기도 수원시 영통구": {
+      "ratio_offset": 0.018,
+      "bidder_offset": 1.4
+    },
+    "경기도 고양시 일산동구": {
+      "ratio_offset": -0.010,
+      "bidder_offset": -0.4
+    },
+    "인천광역시 연수구 송도동": {
+      "ratio_offset": 0.015,
+      "bidder_offset": 1.1
+    }
+  }
+}

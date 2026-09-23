@@ -1,0 +1,29 @@
+{
+  "target_profit_rate": 0.12,
+  "holding_period_months": 12,
+  "seller_tax_profile": "1주택_단기_또는_일반",
+  "buyer_home_count": 1,
+  "acquisition_tax": {
+    "tier1_limit": 600000000,
+    "tier1_rate": 0.01,
+    "tier2_limit": 900000000,
+    "tier3_rate": 0.03,
+    "local_education_tax_ratio": 0.1,
+    "special_rural_tax_ratio_over_85sqm": 0.002,
+    "officetel_rate": 0.046
+  },
+  "transfer_tax": {
+    "under_1year_rate": 0.70,
+    "under_2year_rate": 0.60,
+    "over_2year_graduated": true,
+    "basic_deduction": 2500000,
+    "local_income_tax_ratio": 0.10
+  },
+  "miscellaneous_costs": {
+    "brokerage_fee_rate": 0.004,
+    "eviction_cost_per_sqm": 25000,
+    "base_eviction_cost": 2000000,
+    "standard_renovation_cost_per_sqm": 70000,
+    "contingency_reserve_rate": 0.015
+  }
+}

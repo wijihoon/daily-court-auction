@@ -1,0 +1,15 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+.cache/
+data/.cache/
+data/cache_meta.json
+data/past_properties.json
+*.backup
+*.tmp
+__pycache__/

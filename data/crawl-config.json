@@ -1,0 +1,27 @@
+{
+  "sido": [],
+  "usage": [
+    "아파트",
+    "오피스텔",
+    "연립다세대",
+    "다세대",
+    "연립",
+    "빌라",
+    "주택"
+  ],
+  "min_appraisal": 30000000,
+  "max_appraisal": 10000000000,
+  "sale_date_to_days": 90,
+  "past_history_days": 30,
+  "max_properties": 0,
+  "fetch_rights": true,
+  "polite_delay_sec": 0.05,
+  "cache_enabled": true,
+  "cache_ttl_hours": 6,
+  "page_cache_ttl_hours": 12,
+  "socket_timeout_sec": 15,
+  "request_timeout_sec": 12,
+  "max_retries": 3,
+  "max_workers": 8,
+  "smart_incremental_sync": true
+}
