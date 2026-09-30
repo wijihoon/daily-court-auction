@@ -1,10 +1,10 @@
 {
-  "calibrated_at": "2026-09-29 00:50:15",
-  "total_tracked_cases": 16393,
+  "calibrated_at": "2026-09-30 00:05:38",
+  "total_tracked_cases": 16402,
   "metrics": {
-    "avg_ratio_bias_pct": -1.63,
+    "avg_ratio_bias_pct": -1.64,
     "avg_bidder_bias": -2.22,
-    "mean_brier_score": 0.3052,
+    "mean_brier_score": 0.3053,
     "win_rate_with_model_bid": 42.4,
     "avg_resale_diff_pct": 0.08
   },
@@ -13,7 +13,7 @@
       "target": "baseline_mean_sale_ratio",
       "direction": "유지",
       "delta": "0.0%p",
-      "reason": "낙찰가율 오차(-1.63%p)가 허용오차 범위(±2%p) 이내로 매우 정밀함."
+      "reason": "낙찰가율 오차(-1.64%p)가 허용오차 범위(±2%p) 이내로 매우 정밀함."
     },
     {
       "target": "competition_base_bidders",
@@ -24,8 +24,8 @@
     {
       "target": "win_probability_model",
       "direction": "재보정",
-      "delta": "Brier 0.3052",
-      "reason": "성공률 예측 Brier Score가 0.3052로 확률 분포 표준편차 보정 필요."
+      "delta": "Brier 0.3053",
+      "reason": "성공률 예측 Brier Score가 0.3053로 확률 분포 표준편차 보정 필요."
     }
   ],
   "region_breakdown": {
@@ -55,13 +55,13 @@
       "avg_bidder_bias": -3.5
     },
     "서울북부지방법원": {
-      "count": 525,
-      "avg_ratio_bias": -0.95,
+      "count": 527,
+      "avg_ratio_bias": -0.96,
       "avg_bidder_bias": -2.4
     },
     "서울서부지방법원": {
-      "count": 468,
-      "avg_ratio_bias": 0.12,
+      "count": 469,
+      "avg_ratio_bias": 0.13,
       "avg_bidder_bias": -3.3
     },
     "서울남부지방법원": {
@@ -135,9 +135,9 @@
       "avg_bidder_bias": -0.2
     },
     "청주지방법원": {
-      "count": 165,
+      "count": 166,
       "avg_ratio_bias": -1.77,
-      "avg_bidder_bias": -2.6
+      "avg_bidder_bias": -2.7
     },
     "대전지방법원": {
       "count": 233,
@@ -145,8 +145,8 @@
       "avg_bidder_bias": -2.5
     },
     "천안지원": {
-      "count": 211,
-      "avg_ratio_bias": -1.12,
+      "count": 215,
+      "avg_ratio_bias": -1.74,
       "avg_bidder_bias": -2.4
     },
     "부산지방법원": {
@@ -260,9 +260,9 @@
       "avg_bidder_bias": -2.2
     },
     "영월지원": {
-      "count": 30,
-      "avg_ratio_bias": -0.58,
-      "avg_bidder_bias": -4.1
+      "count": 31,
+      "avg_ratio_bias": -0.68,
+      "avg_bidder_bias": -3.9
     },
     "제천지원": {
       "count": 12,
@@ -377389,6 +377389,213 @@
       "actual_resale": 444000000,
       "resale_vs_market_pct": null,
       "notes": "권리분석상 선순위 하자 없는 안전 매물로 8명 응찰 낙찰"
+    },
+    {
+      "id": "서울북부지방법원_2025타경12740_1",
+      "case_no": "2025타경12740",
+      "address": "서울특별시 중랑구 중화동 291-68 지하층1호",
+      "usage": "다세대",
+      "appraisal_price": 98300000,
+      "predicted_bid": 81817056,
+      "actual_price": null,
+      "predicted_ratio": 0.8323,
+      "actual_ratio": null,
+      "ratio_err": null,
+      "predicted_bidders": 8.6,
+      "actual_bidders": 0,
+      "bidders_err": -8.6,
+      "win_probability": 40.2,
+      "actual_status": "유찰",
+      "would_win": false,
+      "brier_score": 0.1616,
+      "predicted_resale": null,
+      "actual_resale": null,
+      "resale_vs_market_pct": null,
+      "notes": "선순위 가등기 및 처분금지가처분 하자 우려로 전원 관망 유찰"
+    },
+    {
+      "id": "서울북부지방법원_2025타경13588_1",
+      "case_no": "2025타경13588",
+      "address": "서울특별시 도봉구 도봉동 569-8 라온파크빌 비동 3층301호",
+      "usage": "다세대",
+      "appraisal_price": 164000000,
+      "predicted_bid": 164000000,
+      "actual_price": 157000000,
+      "predicted_ratio": 1.0,
+      "actual_ratio": 0.957,
+      "ratio_err": -0.043,
+      "predicted_bidders": 8.6,
+      "actual_bidders": 7,
+      "bidders_err": -1.6,
+      "win_probability": 96.8,
+      "actual_status": "낙찰",
+      "would_win": true,
+      "brier_score": 0.001,
+      "predicted_resale": null,
+      "actual_resale": 167000000,
+      "resale_vs_market_pct": null,
+      "notes": "실수요자 및 투자자 몰려 감정가 90% 이상 고가 낙찰 (낙찰가율 95.7%)"
+    },
+    {
+      "id": "서울서부지방법원_2023타경61102_1",
+      "case_no": "2023타경61102",
+      "address": "서울특별시 마포구 방울내로5길 8 7층 702호 (망원동,천우아파트)",
+      "usage": "아파트",
+      "appraisal_price": 317000000,
+      "predicted_bid": 284021856,
+      "actual_price": 296000000,
+      "predicted_ratio": 0.896,
+      "actual_ratio": 0.935,
+      "ratio_err": 0.039,
+      "predicted_bidders": 15.4,
+      "actual_bidders": 14,
+      "bidders_err": -1.4,
+      "win_probability": 9.5,
+      "actual_status": "낙찰",
+      "would_win": false,
+      "brier_score": 0.819,
+      "predicted_resale": null,
+      "actual_resale": 343000000,
+      "resale_vs_market_pct": null,
+      "notes": "역세권 입지 및 대단지 선호로 14명 응찰 경합 1등 낙찰"
+    },
+    {
+      "id": "영월지원_2024타경33021_1",
+      "case_no": "2024타경33021",
+      "address": "강원특별자치도 평창군 봉평면 면온리 829-16",
+      "usage": "연립주택,다세대,빌라",
+      "appraisal_price": 1226841000,
+      "predicted_bid": 1226841000,
+      "actual_price": 1196000000,
+      "predicted_ratio": 1.0,
+      "actual_ratio": 0.975,
+      "ratio_err": -0.025,
+      "predicted_bidders": 10.4,
+      "actual_bidders": 11,
+      "bidders_err": 0.6,
+      "win_probability": 96.5,
+      "actual_status": "낙찰",
+      "would_win": true,
+      "brier_score": 0.0012,
+      "predicted_resale": null,
+      "actual_resale": 1308000000,
+      "resale_vs_market_pct": null,
+      "notes": "역세권 입지 및 대단지 선호로 11명 응찰 경합 1등 낙찰"
+    },
+    {
+      "id": "청주지방법원_2025타경1019_1",
+      "case_no": "2025타경1019",
+      "address": "충청북도 청주시 서원구 개신동 41-5 한진신세대아파트 2층 223호",
+      "usage": "아파트",
+      "appraisal_price": 55000000,
+      "predicted_bid": 42904857,
+      "actual_price": null,
+      "predicted_ratio": 0.7801,
+      "actual_ratio": null,
+      "ratio_err": null,
+      "predicted_bidders": 25.1,
+      "actual_bidders": 0,
+      "bidders_err": -25.1,
+      "win_probability": 3.3,
+      "actual_status": "유찰",
+      "would_win": false,
+      "brier_score": 0.0011,
+      "predicted_resale": null,
+      "actual_resale": null,
+      "resale_vs_market_pct": null,
+      "notes": "차회 기일 20% 저감된 최저입찰가 대기 수요로 유찰"
+    },
+    {
+      "id": "천안지원_2024타경105415_1",
+      "case_no": "2024타경105415",
+      "address": "충청남도 아산시 배방읍 솔치로 261 101동 7층 703호 (삼정백조1차아파트)",
+      "usage": "아파트",
+      "appraisal_price": 58700000,
+      "predicted_bid": 48201246,
+      "actual_price": 31300000,
+      "predicted_ratio": 0.8211,
+      "actual_ratio": 0.5332,
+      "ratio_err": -0.2879,
+      "predicted_bidders": 10.7,
+      "actual_bidders": 12,
+      "bidders_err": 1.3,
+      "win_probability": 13.8,
+      "actual_status": "낙찰",
+      "would_win": true,
+      "brier_score": 0.743,
+      "predicted_resale": null,
+      "actual_resale": 63000000,
+      "resale_vs_market_pct": null,
+      "notes": "법원 매각기일 최고가 매수신고인 31,300,000원(낙찰가율 53.3%) 1등 매각허가"
+    },
+    {
+      "id": "천안지원_2024타경105415_3",
+      "case_no": "2024타경105415",
+      "address": "충청남도 아산시 배방읍 솔치로 261 101동 15층 1518호 (삼정백조1차아파트)",
+      "usage": "아파트",
+      "appraisal_price": 60400000,
+      "predicted_bid": 49597194,
+      "actual_price": 31300000,
+      "predicted_ratio": 0.8211,
+      "actual_ratio": 0.5182,
+      "ratio_err": -0.3029,
+      "predicted_bidders": 10.7,
+      "actual_bidders": 8,
+      "bidders_err": -2.7,
+      "win_probability": 13.8,
+      "actual_status": "낙찰",
+      "would_win": true,
+      "brier_score": 0.743,
+      "predicted_resale": null,
+      "actual_resale": 65000000,
+      "resale_vs_market_pct": null,
+      "notes": "법원 매각기일 최고가 매수신고인 31,300,000원(낙찰가율 51.8%) 1등 매각허가"
+    },
+    {
+      "id": "천안지원_2024타경105415_4",
+      "case_no": "2024타경105415",
+      "address": "충청남도 아산시 배방읍 솔치로 261 101동 2층 218호 (삼정백조1차아파트)",
+      "usage": "아파트",
+      "appraisal_price": 55300000,
+      "predicted_bid": 43138884,
+      "actual_price": 31300000,
+      "predicted_ratio": 0.7801,
+      "actual_ratio": 0.566,
+      "ratio_err": -0.2141,
+      "predicted_bidders": 10.7,
+      "actual_bidders": 12,
+      "bidders_err": 1.3,
+      "win_probability": 4.9,
+      "actual_status": "낙찰",
+      "would_win": true,
+      "brier_score": 0.9044,
+      "predicted_resale": null,
+      "actual_resale": 60000000,
+      "resale_vs_market_pct": null,
+      "notes": "법원 매각기일 최고가 매수신고인 31,300,000원(낙찰가율 56.6%) 1등 매각허가"
+    },
+    {
+      "id": "천안지원_2024타경105415_6",
+      "case_no": "2024타경105415",
+      "address": "충청남도 아산시 배방읍 솔치로 261 101동 9층 901호 (삼정백조1차아파트)",
+      "usage": "아파트",
+      "appraisal_price": 59300000,
+      "predicted_bid": 48693934,
+      "actual_price": 31300000,
+      "predicted_ratio": 0.8211,
+      "actual_ratio": 0.5278,
+      "ratio_err": -0.2933,
+      "predicted_bidders": 10.7,
+      "actual_bidders": 9,
+      "bidders_err": -1.7,
+      "win_probability": 13.8,
+      "actual_status": "낙찰",
+      "would_win": true,
+      "brier_score": 0.743,
+      "predicted_resale": null,
+      "actual_resale": 64000000,
+      "resale_vs_market_pct": null,
+      "notes": "법원 매각기일 최고가 매수신고인 31,300,000원(낙찰가율 52.8%) 1등 매각허가"
     }
   ]
 }

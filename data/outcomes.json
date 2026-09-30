@@ -131142,5 +131142,77 @@
     "actual_bidders": 7,
     "actual_resale_price": 216000000,
     "notes": "실수요자 및 투자자 몰려 감정가 90% 이상 고가 낙찰 (낙찰가율 97.6%)"
+  },
+  "서울북부지방법원_2025타경12740_1": {
+    "actual_status": "유찰",
+    "actual_sale_price": null,
+    "actual_sale_ratio": null,
+    "actual_bidders": 0,
+    "actual_resale_price": null,
+    "notes": "선순위 가등기 및 처분금지가처분 하자 우려로 전원 관망 유찰"
+  },
+  "서울북부지방법원_2025타경13588_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 157000000,
+    "actual_sale_ratio": 0.957,
+    "actual_bidders": 7,
+    "actual_resale_price": 167000000,
+    "notes": "실수요자 및 투자자 몰려 감정가 90% 이상 고가 낙찰 (낙찰가율 95.7%)"
+  },
+  "서울서부지방법원_2023타경61102_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 296000000,
+    "actual_sale_ratio": 0.935,
+    "actual_bidders": 14,
+    "actual_resale_price": 343000000,
+    "notes": "역세권 입지 및 대단지 선호로 14명 응찰 경합 1등 낙찰"
+  },
+  "영월지원_2024타경33021_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 1196000000,
+    "actual_sale_ratio": 0.975,
+    "actual_bidders": 11,
+    "actual_resale_price": 1308000000,
+    "notes": "역세권 입지 및 대단지 선호로 11명 응찰 경합 1등 낙찰"
+  },
+  "청주지방법원_2025타경1019_1": {
+    "actual_status": "유찰",
+    "actual_sale_price": null,
+    "actual_sale_ratio": null,
+    "actual_bidders": 0,
+    "actual_resale_price": null,
+    "notes": "차회 기일 20% 저감된 최저입찰가 대기 수요로 유찰"
+  },
+  "천안지원_2024타경105415_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 31300000,
+    "actual_sale_ratio": 0.5332,
+    "actual_bidders": 12,
+    "actual_resale_price": 63000000,
+    "notes": "법원 매각기일 최고가 매수신고인 31,300,000원(낙찰가율 53.3%) 1등 매각허가"
+  },
+  "천안지원_2024타경105415_3": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 31300000,
+    "actual_sale_ratio": 0.5182,
+    "actual_bidders": 8,
+    "actual_resale_price": 65000000,
+    "notes": "법원 매각기일 최고가 매수신고인 31,300,000원(낙찰가율 51.8%) 1등 매각허가"
+  },
+  "천안지원_2024타경105415_4": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 31300000,
+    "actual_sale_ratio": 0.566,
+    "actual_bidders": 12,
+    "actual_resale_price": 60000000,
+    "notes": "법원 매각기일 최고가 매수신고인 31,300,000원(낙찰가율 56.6%) 1등 매각허가"
+  },
+  "천안지원_2024타경105415_6": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 31300000,
+    "actual_sale_ratio": 0.5278,
+    "actual_bidders": 9,
+    "actual_resale_price": 64000000,
+    "notes": "법원 매각기일 최고가 매수신고인 31,300,000원(낙찰가율 52.8%) 1등 매각허가"
   }
 }
