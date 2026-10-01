@@ -1,6 +1,6 @@
 {
-  "calibrated_at": "2026-09-30 00:05:38",
-  "total_tracked_cases": 16402,
+  "calibrated_at": "2026-10-01 00:23:02",
+  "total_tracked_cases": 16403,
   "metrics": {
     "avg_ratio_bias_pct": -1.64,
     "avg_bidder_bias": -2.22,
@@ -155,8 +155,8 @@
       "avg_bidder_bias": -1.5
     },
     "울산지방법원": {
-      "count": 379,
-      "avg_ratio_bias": -1.47,
+      "count": 380,
+      "avg_ratio_bias": -1.45,
       "avg_bidder_bias": -2.3
     },
     "부산서부지원": {
@@ -377596,6 +377596,29 @@
       "actual_resale": 64000000,
       "resale_vs_market_pct": null,
       "notes": "법원 매각기일 최고가 매수신고인 31,300,000원(낙찰가율 52.8%) 1등 매각허가"
+    },
+    {
+      "id": "울산지방법원_2025타경12978_1",
+      "case_no": "2025타경12978",
+      "address": "경상남도 양산시 북부동 883 양산북부동지안스로가아파트 106동 2층202호",
+      "usage": "아파트",
+      "appraisal_price": 227000000,
+      "predicted_bid": 227000000,
+      "actual_price": 236000000,
+      "predicted_ratio": 1.0,
+      "actual_ratio": 1.04,
+      "ratio_err": 0.04,
+      "predicted_bidders": 8.9,
+      "actual_bidders": 8,
+      "bidders_err": -0.9,
+      "win_probability": 92.4,
+      "actual_status": "낙찰",
+      "would_win": false,
+      "brier_score": 0.0058,
+      "predicted_resale": null,
+      "actual_resale": 238000000,
+      "resale_vs_market_pct": null,
+      "notes": "실수요자 및 투자자 몰려 감정가 90% 이상 고가 낙찰 (낙찰가율 104.0%)"
     }
   ]
 }

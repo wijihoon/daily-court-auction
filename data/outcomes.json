@@ -131214,5 +131214,13 @@
     "actual_bidders": 9,
     "actual_resale_price": 64000000,
     "notes": "법원 매각기일 최고가 매수신고인 31,300,000원(낙찰가율 52.8%) 1등 매각허가"
+  },
+  "울산지방법원_2025타경12978_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 236000000,
+    "actual_sale_ratio": 1.04,
+    "actual_bidders": 8,
+    "actual_resale_price": 238000000,
+    "notes": "실수요자 및 투자자 몰려 감정가 90% 이상 고가 낙찰 (낙찰가율 104.0%)"
   }
 }
