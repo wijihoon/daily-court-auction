@@ -1,6 +1,6 @@
 {
-  "calibrated_at": "2026-10-18 22:49:09",
-  "total_tracked_cases": 19110,
+  "calibrated_at": "2026-10-20 00:08:01",
+  "total_tracked_cases": 19111,
   "metrics": {
     "avg_ratio_bias_pct": -2.37,
     "avg_bidder_bias": -2.29,
@@ -190,9 +190,9 @@
       "avg_bidder_bias": -2.0
     },
     "충주지원": {
-      "count": 72,
+      "count": 73,
       "avg_ratio_bias": 0.8,
-      "avg_bidder_bias": -2.3
+      "avg_bidder_bias": -2.4
     },
     "대구지방법원": {
       "count": 544,
@@ -439881,6 +439881,29 @@
       "actual_status": "유찰",
       "would_win": false,
       "brier_score": 0.8538,
+      "predicted_resale": null,
+      "actual_resale": null,
+      "resale_vs_market_pct": null,
+      "notes": "선순위 대항력 임차인 보증금 미배당 인수 부담 우려로 전원 기피 유찰"
+    },
+    {
+      "id": "충주지원_2025타경2374_1",
+      "case_no": "2025타경2374",
+      "address": "충청북도 충주시 용탄동 1179",
+      "usage": "상가,오피스텔,근린시설",
+      "appraisal_price": 1092360500,
+      "predicted_bid": 882452506,
+      "actual_price": null,
+      "predicted_ratio": 0.8078,
+      "actual_ratio": null,
+      "ratio_err": null,
+      "predicted_bidders": 12.2,
+      "actual_bidders": 0,
+      "bidders_err": -12.2,
+      "win_probability": 26.7,
+      "actual_status": "유찰",
+      "would_win": false,
+      "brier_score": 0.0713,
       "predicted_resale": null,
       "actual_resale": null,
       "resale_vs_market_pct": null,
