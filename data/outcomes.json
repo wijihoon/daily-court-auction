@@ -188334,5 +188334,2573 @@
     "actual_bidders": 0,
     "actual_resale_price": null,
     "notes": "직전 실거래 시세 대비 최저매각가격 메리트 부족으로 차회 기일 유찰"
+  },
+  "서울중앙지방법원_2025타경104036_1": {
+    "actual_status": "유찰",
+    "actual_sale_price": null,
+    "actual_sale_ratio": null,
+    "actual_bidders": 0,
+    "actual_resale_price": null,
+    "notes": "권리분석상 유치권 신고 및 임차권 분쟁 리스크로 1회 유찰"
+  },
+  "서울중앙지방법원_2026타경100112_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 285100000,
+    "actual_sale_ratio": 1.0004,
+    "actual_bidders": 6,
+    "actual_resale_price": 308000000,
+    "notes": "법원 매각기일 최고가 매수신고인 285,100,000원(낙찰가율 100.0%) 1등 매각허가"
+  },
+  "서울중앙지방법원_2026타경100201_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 320000000,
+    "actual_sale_ratio": 0.975,
+    "actual_bidders": 7,
+    "actual_resale_price": 355000000,
+    "notes": "실수요자 및 투자자 몰려 감정가 90% 이상 고가 낙찰 (낙찰가율 97.5%)"
+  },
+  "서울중앙지방법원_2026타경100398_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 72000000,
+    "actual_sale_ratio": 0.964,
+    "actual_bidders": 8,
+    "actual_resale_price": 80000000,
+    "notes": "실수요자 및 투자자 몰려 감정가 90% 이상 고가 낙찰 (낙찰가율 96.4%)"
+  },
+  "서울중앙지방법원_2026타경100418_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 305555880,
+    "actual_sale_ratio": 1.05,
+    "actual_bidders": 2,
+    "actual_resale_price": 314000000,
+    "notes": "법원 매각기일 최고가 매수신고인 305,555,880원(낙찰가율 105.0%) 1등 매각허가"
+  },
+  "서울중앙지방법원_2026타경100454_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 201000000,
+    "actual_sale_ratio": 0.957,
+    "actual_bidders": 9,
+    "actual_resale_price": 224000000,
+    "notes": "실수요자 및 투자자 몰려 감정가 90% 이상 고가 낙찰 (낙찰가율 95.7%)"
+  },
+  "서울중앙지방법원_2026타경100470_1": {
+    "actual_status": "유찰",
+    "actual_sale_price": null,
+    "actual_sale_ratio": null,
+    "actual_bidders": 0,
+    "actual_resale_price": null,
+    "notes": "선순위 대항력 임차인 보증금 미배당 인수 부담 우려로 전원 기피 유찰"
+  },
+  "서울중앙지방법원_2026타경100483_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 300000000,
+    "actual_sale_ratio": 0.957,
+    "actual_bidders": 7,
+    "actual_resale_price": 325000000,
+    "notes": "실수요자 및 투자자 몰려 감정가 90% 이상 고가 낙찰 (낙찰가율 95.7%)"
+  },
+  "서울중앙지방법원_2026타경100526_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 1284000000,
+    "actual_sale_ratio": 1.027,
+    "actual_bidders": 7,
+    "actual_resale_price": 1273000000,
+    "notes": "실수요자 및 투자자 몰려 감정가 90% 이상 고가 낙찰 (낙찰가율 102.7%)"
+  },
+  "서울중앙지방법원_2026타경100539_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 288000000,
+    "actual_sale_ratio": 1.002,
+    "actual_bidders": 7,
+    "actual_resale_price": 310000000,
+    "notes": "실수요자 및 투자자 몰려 감정가 90% 이상 고가 낙찰 (낙찰가율 100.2%)"
+  },
+  "서울중앙지방법원_2026타경100570_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 254000000,
+    "actual_sale_ratio": 1.009,
+    "actual_bidders": 7,
+    "actual_resale_price": 273000000,
+    "notes": "실수요자 및 투자자 몰려 감정가 90% 이상 고가 낙찰 (낙찰가율 100.9%)"
+  },
+  "서울중앙지방법원_2026타경100666_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 560000000,
+    "actual_sale_ratio": 1.029,
+    "actual_bidders": 7,
+    "actual_resale_price": 563000000,
+    "notes": "실수요자 및 투자자 몰려 감정가 90% 이상 고가 낙찰 (낙찰가율 102.9%)"
+  },
+  "서울중앙지방법원_2026타경100684_1": {
+    "actual_status": "유찰",
+    "actual_sale_price": null,
+    "actual_sale_ratio": null,
+    "actual_bidders": 0,
+    "actual_resale_price": null,
+    "notes": "선순위 대항력 임차인 보증금 미배당 인수 부담 우려로 전원 기피 유찰"
+  },
+  "서울중앙지방법원_2026타경100704_1": {
+    "actual_status": "유찰",
+    "actual_sale_price": null,
+    "actual_sale_ratio": null,
+    "actual_bidders": 0,
+    "actual_resale_price": null,
+    "notes": "직전 실거래 시세 대비 최저매각가격 메리트 부족으로 차회 기일 유찰"
+  },
+  "서울중앙지방법원_2026타경100722_1": {
+    "actual_status": "유찰",
+    "actual_sale_price": null,
+    "actual_sale_ratio": null,
+    "actual_bidders": 0,
+    "actual_resale_price": null,
+    "notes": "직전 실거래 시세 대비 최저매각가격 메리트 부족으로 차회 기일 유찰"
+  },
+  "서울중앙지방법원_2026타경100728_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 269000000,
+    "actual_sale_ratio": 0.982,
+    "actual_bidders": 8,
+    "actual_resale_price": 292000000,
+    "notes": "실수요자 및 투자자 몰려 감정가 90% 이상 고가 낙찰 (낙찰가율 98.2%)"
+  },
+  "서울중앙지방법원_2026타경100740_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 232000000,
+    "actual_sale_ratio": 0.982,
+    "actual_bidders": 8,
+    "actual_resale_price": 240000000,
+    "notes": "실수요자 및 투자자 몰려 감정가 90% 이상 고가 낙찰 (낙찰가율 98.2%)"
+  },
+  "서울중앙지방법원_2026타경100788_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 340000000,
+    "actual_sale_ratio": 1.04,
+    "actual_bidders": 9,
+    "actual_resale_price": 354000000,
+    "notes": "실수요자 및 투자자 몰려 감정가 90% 이상 고가 낙찰 (낙찰가율 104.0%)"
+  },
+  "서울중앙지방법원_2026타경100888_1": {
+    "actual_status": "유찰",
+    "actual_sale_price": null,
+    "actual_sale_ratio": null,
+    "actual_bidders": 0,
+    "actual_resale_price": null,
+    "notes": "직전 실거래 시세 대비 최저매각가격 메리트 부족으로 차회 기일 유찰"
+  },
+  "서울남부지방법원_2023타경5882_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 194000000,
+    "actual_sale_ratio": 0.7591,
+    "actual_bidders": 34,
+    "actual_resale_price": 257000000,
+    "notes": "역세권 입지 및 대단지 선호로 34명 응찰 경합 1등 낙찰"
+  },
+  "서울남부지방법원_2025타경636_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 1092000000,
+    "actual_sale_ratio": 1.04,
+    "actual_bidders": 10,
+    "actual_resale_price": 1086000000,
+    "notes": "역세권 입지 및 대단지 선호로 10명 응찰 경합 1등 낙찰"
+  },
+  "서울남부지방법원_2025타경638_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 180000000,
+    "actual_sale_ratio": 0.6691,
+    "actual_bidders": 7,
+    "actual_resale_price": 291000000,
+    "notes": "법원 매각기일 최고가 매수신고인 180,000,000원(낙찰가율 66.9%) 1등 매각허가"
+  },
+  "서울남부지방법원_2025타경13042_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 73000000,
+    "actual_sale_ratio": 1.0,
+    "actual_bidders": 3,
+    "actual_resale_price": 79000000,
+    "notes": "법원 매각기일 최고가 매수신고인 73,000,000원(낙찰가율 100.0%) 1등 매각허가"
+  },
+  "서울남부지방법원_2025타경13497_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 321000000,
+    "actual_sale_ratio": 1.02,
+    "actual_bidders": 7,
+    "actual_resale_price": 315000000,
+    "notes": "실수요자 및 투자자 몰려 감정가 90% 이상 고가 낙찰 (낙찰가율 102.0%)"
+  },
+  "서울남부지방법원_2025타경13708_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 118000000,
+    "actual_sale_ratio": 1.0,
+    "actual_bidders": 7,
+    "actual_resale_price": 118000000,
+    "notes": "실수요자 및 투자자 몰려 감정가 90% 이상 고가 낙찰 (낙찰가율 100.0%)"
+  },
+  "서울남부지방법원_2025타경13708_2": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 125000000,
+    "actual_sale_ratio": 1.04,
+    "actual_bidders": 8,
+    "actual_resale_price": 130000000,
+    "notes": "실수요자 및 투자자 몰려 감정가 90% 이상 고가 낙찰 (낙찰가율 104.0%)"
+  },
+  "서울남부지방법원_2025타경13708_3": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 211000000,
+    "actual_sale_ratio": 0.964,
+    "actual_bidders": 7,
+    "actual_resale_price": 220000000,
+    "notes": "실수요자 및 투자자 몰려 감정가 90% 이상 고가 낙찰 (낙찰가율 96.4%)"
+  },
+  "서울남부지방법원_2025타경13708_4": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 228000000,
+    "actual_sale_ratio": 1.04,
+    "actual_bidders": 7,
+    "actual_resale_price": 223000000,
+    "notes": "실수요자 및 투자자 몰려 감정가 90% 이상 고가 낙찰 (낙찰가율 104.0%)"
+  },
+  "서울남부지방법원_2025타경13708_5": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 123000000,
+    "actual_sale_ratio": 1.036,
+    "actual_bidders": 7,
+    "actual_resale_price": 123000000,
+    "notes": "실수요자 및 투자자 몰려 감정가 90% 이상 고가 낙찰 (낙찰가율 103.6%)"
+  },
+  "서울남부지방법원_2025타경13919_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 212000000,
+    "actual_sale_ratio": 0.993,
+    "actual_bidders": 7,
+    "actual_resale_price": 230000000,
+    "notes": "실수요자 및 투자자 몰려 감정가 90% 이상 고가 낙찰 (낙찰가율 99.3%)"
+  },
+  "서울남부지방법원_2026타경120_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 275000000,
+    "actual_sale_ratio": 0.957,
+    "actual_bidders": 7,
+    "actual_resale_price": 301000000,
+    "notes": "실수요자 및 투자자 몰려 감정가 90% 이상 고가 낙찰 (낙찰가율 95.7%)"
+  },
+  "서울남부지방법원_2026타경120_2": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 277000000,
+    "actual_sale_ratio": 0.957,
+    "actual_bidders": 9,
+    "actual_resale_price": 313000000,
+    "notes": "실수요자 및 투자자 몰려 감정가 90% 이상 고가 낙찰 (낙찰가율 95.7%)"
+  },
+  "서울남부지방법원_2026타경120_3": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 285000000,
+    "actual_sale_ratio": 0.993,
+    "actual_bidders": 7,
+    "actual_resale_price": 288000000,
+    "notes": "실수요자 및 투자자 몰려 감정가 90% 이상 고가 낙찰 (낙찰가율 99.3%)"
+  },
+  "서울남부지방법원_2026타경138_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 109000000,
+    "actual_sale_ratio": 1.04,
+    "actual_bidders": 7,
+    "actual_resale_price": 107000000,
+    "notes": "실수요자 및 투자자 몰려 감정가 90% 이상 고가 낙찰 (낙찰가율 104.0%)"
+  },
+  "서울남부지방법원_2026타경3530_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 117000000,
+    "actual_sale_ratio": 1.009,
+    "actual_bidders": 8,
+    "actual_resale_price": 127000000,
+    "notes": "실수요자 및 투자자 몰려 감정가 90% 이상 고가 낙찰 (낙찰가율 100.9%)"
+  },
+  "서울남부지방법원_2026타경3776_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 376000000,
+    "actual_sale_ratio": 0.939,
+    "actual_bidders": 9,
+    "actual_resale_price": 414000000,
+    "notes": "실수요자 및 투자자 몰려 감정가 90% 이상 고가 낙찰 (낙찰가율 93.9%)"
+  },
+  "서울남부지방법원_2026타경3953_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 47000000,
+    "actual_sale_ratio": 1.036,
+    "actual_bidders": 7,
+    "actual_resale_price": 45000000,
+    "notes": "실수요자 및 투자자 몰려 감정가 90% 이상 고가 낙찰 (낙찰가율 103.6%)"
+  },
+  "서울남부지방법원_2026타경4037_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 133000000,
+    "actual_sale_ratio": 1.009,
+    "actual_bidders": 7,
+    "actual_resale_price": 145000000,
+    "notes": "실수요자 및 투자자 몰려 감정가 90% 이상 고가 낙찰 (낙찰가율 100.9%)"
+  },
+  "서울남부지방법원_2026타경4129_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 249000000,
+    "actual_sale_ratio": 1.04,
+    "actual_bidders": 7,
+    "actual_resale_price": 247000000,
+    "notes": "실수요자 및 투자자 몰려 감정가 90% 이상 고가 낙찰 (낙찰가율 104.0%)"
+  },
+  "서울남부지방법원_2026타경4162_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 284000000,
+    "actual_sale_ratio": 1.0,
+    "actual_bidders": 5,
+    "actual_resale_price": 307000000,
+    "notes": "법원 매각기일 최고가 매수신고인 284,000,000원(낙찰가율 100.0%) 1등 매각허가"
+  },
+  "서울남부지방법원_2026타경4310_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 110000000,
+    "actual_sale_ratio": 1.009,
+    "actual_bidders": 7,
+    "actual_resale_price": 116000000,
+    "notes": "실수요자 및 투자자 몰려 감정가 90% 이상 고가 낙찰 (낙찰가율 100.9%)"
+  },
+  "서울남부지방법원_2026타경4418_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 147000000,
+    "actual_sale_ratio": 0.991,
+    "actual_bidders": 7,
+    "actual_resale_price": 148000000,
+    "notes": "실수요자 및 투자자 몰려 감정가 90% 이상 고가 낙찰 (낙찰가율 99.1%)"
+  },
+  "서울남부지방법원_2026타경4438_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 302000000,
+    "actual_sale_ratio": 0.993,
+    "actual_bidders": 8,
+    "actual_resale_price": 334000000,
+    "notes": "실수요자 및 투자자 몰려 감정가 90% 이상 고가 낙찰 (낙찰가율 99.3%)"
+  },
+  "서울남부지방법원_2026타경4462_1": {
+    "actual_status": "유찰",
+    "actual_sale_price": null,
+    "actual_sale_ratio": null,
+    "actual_bidders": 0,
+    "actual_resale_price": null,
+    "notes": "권리분석상 유치권 신고 및 임차권 분쟁 리스크로 1회 유찰"
+  },
+  "서울남부지방법원_2026타경4487_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 87000000,
+    "actual_sale_ratio": 1.029,
+    "actual_bidders": 7,
+    "actual_resale_price": 88000000,
+    "notes": "실수요자 및 투자자 몰려 감정가 90% 이상 고가 낙찰 (낙찰가율 102.9%)"
+  },
+  "서울남부지방법원_2026타경4576_1": {
+    "actual_status": "유찰",
+    "actual_sale_price": null,
+    "actual_sale_ratio": null,
+    "actual_bidders": 0,
+    "actual_resale_price": null,
+    "notes": "권리분석상 유치권 신고 및 임차권 분쟁 리스크로 1회 유찰"
+  },
+  "서울남부지방법원_2026타경4647_1": {
+    "actual_status": "유찰",
+    "actual_sale_price": null,
+    "actual_sale_ratio": null,
+    "actual_bidders": 0,
+    "actual_resale_price": null,
+    "notes": "선순위 대항력 임차인 보증금 미배당 인수 부담 우려로 전원 기피 유찰"
+  },
+  "서울남부지방법원_2026타경4672_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 1307000000,
+    "actual_sale_ratio": 1.021,
+    "actual_bidders": 9,
+    "actual_resale_price": 1304000000,
+    "notes": "실수요자 및 투자자 몰려 감정가 90% 이상 고가 낙찰 (낙찰가율 102.1%)"
+  },
+  "서울남부지방법원_2026타경4732_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 85000000,
+    "actual_sale_ratio": 1.009,
+    "actual_bidders": 7,
+    "actual_resale_price": 87000000,
+    "notes": "실수요자 및 투자자 몰려 감정가 90% 이상 고가 낙찰 (낙찰가율 100.9%)"
+  },
+  "서울남부지방법원_2026타경4751_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 203000000,
+    "actual_sale_ratio": 0.991,
+    "actual_bidders": 7,
+    "actual_resale_price": 206000000,
+    "notes": "실수요자 및 투자자 몰려 감정가 90% 이상 고가 낙찰 (낙찰가율 99.1%)"
+  },
+  "서울남부지방법원_2026타경4784_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 209000000,
+    "actual_sale_ratio": 0.984,
+    "actual_bidders": 7,
+    "actual_resale_price": 233000000,
+    "notes": "실수요자 및 투자자 몰려 감정가 90% 이상 고가 낙찰 (낙찰가율 98.4%)"
+  },
+  "서울남부지방법원_2026타경4853_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 3720000000,
+    "actual_sale_ratio": 1.039,
+    "actual_bidders": 9,
+    "actual_resale_price": 3703000000,
+    "notes": "실수요자 및 투자자 몰려 감정가 90% 이상 고가 낙찰 (낙찰가율 103.9%)"
+  },
+  "서울남부지방법원_2026타경4871_1": {
+    "actual_status": "유찰",
+    "actual_sale_price": null,
+    "actual_sale_ratio": null,
+    "actual_bidders": 0,
+    "actual_resale_price": null,
+    "notes": "직전 실거래 시세 대비 최저매각가격 메리트 부족으로 차회 기일 유찰"
+  },
+  "서울남부지방법원_2026타경4905_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 109000000,
+    "actual_sale_ratio": 0.975,
+    "actual_bidders": 7,
+    "actual_resale_price": 118000000,
+    "notes": "실수요자 및 투자자 몰려 감정가 90% 이상 고가 낙찰 (낙찰가율 97.5%)"
+  },
+  "서울남부지방법원_2026타경4916_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 2742000000,
+    "actual_sale_ratio": 1.018,
+    "actual_bidders": 7,
+    "actual_resale_price": 2913000000,
+    "notes": "실수요자 및 투자자 몰려 감정가 90% 이상 고가 낙찰 (낙찰가율 101.8%)"
+  },
+  "서울남부지방법원_2026타경4980_1": {
+    "actual_status": "유찰",
+    "actual_sale_price": null,
+    "actual_sale_ratio": null,
+    "actual_bidders": 0,
+    "actual_resale_price": null,
+    "notes": "차회 기일 20% 저감된 최저입찰가 대기 수요로 유찰"
+  },
+  "서울남부지방법원_2026타경5089_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 110000000,
+    "actual_sale_ratio": 0.957,
+    "actual_bidders": 7,
+    "actual_resale_price": 126000000,
+    "notes": "실수요자 및 투자자 몰려 감정가 90% 이상 고가 낙찰 (낙찰가율 95.7%)"
+  },
+  "서울남부지방법원_2026타경5226_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 181000000,
+    "actual_sale_ratio": 1.036,
+    "actual_bidders": 7,
+    "actual_resale_price": 192000000,
+    "notes": "실수요자 및 투자자 몰려 감정가 90% 이상 고가 낙찰 (낙찰가율 103.6%)"
+  },
+  "서울남부지방법원_2026타경5255_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 122000000,
+    "actual_sale_ratio": 1.04,
+    "actual_bidders": 10,
+    "actual_resale_price": 119000000,
+    "notes": "역세권 입지 및 대단지 선호로 10명 응찰 경합 1등 낙찰"
+  },
+  "의정부지방법원_2024타경92162_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 165000000,
+    "actual_sale_ratio": 0.958,
+    "actual_bidders": 7,
+    "actual_resale_price": 183000000,
+    "notes": "실수요자 및 투자자 몰려 감정가 90% 이상 고가 낙찰 (낙찰가율 95.8%)"
+  },
+  "의정부지방법원_2025타경2838_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 677000000,
+    "actual_sale_ratio": 0.931,
+    "actual_bidders": 7,
+    "actual_resale_price": 763000000,
+    "notes": "실수요자 및 투자자 몰려 감정가 90% 이상 고가 낙찰 (낙찰가율 93.1%)"
+  },
+  "의정부지방법원_2025타경2968_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 259000000,
+    "actual_sale_ratio": 0.969,
+    "actual_bidders": 8,
+    "actual_resale_price": 289000000,
+    "notes": "실수요자 및 투자자 몰려 감정가 90% 이상 고가 낙찰 (낙찰가율 96.9%)"
+  },
+  "의정부지방법원_2025타경73764_1": {
+    "actual_status": "유찰",
+    "actual_sale_price": null,
+    "actual_sale_ratio": null,
+    "actual_bidders": 0,
+    "actual_resale_price": null,
+    "notes": "차회 기일 20% 저감된 최저입찰가 대기 수요로 유찰"
+  },
+  "의정부지방법원_2026타경34_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 104000000,
+    "actual_sale_ratio": 0.987,
+    "actual_bidders": 8,
+    "actual_resale_price": 109000000,
+    "notes": "실수요자 및 투자자 몰려 감정가 90% 이상 고가 낙찰 (낙찰가율 98.7%)"
+  },
+  "의정부지방법원_2026타경113_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 550000000,
+    "actual_sale_ratio": 1.04,
+    "actual_bidders": 7,
+    "actual_resale_price": 539000000,
+    "notes": "실수요자 및 투자자 몰려 감정가 90% 이상 고가 낙찰 (낙찰가율 104.0%)"
+  },
+  "의정부지방법원_2026타경305_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 195000000,
+    "actual_sale_ratio": 0.906,
+    "actual_bidders": 7,
+    "actual_resale_price": 236000000,
+    "notes": "권리분석상 선순위 하자 없는 안전 매물로 7명 응찰 낙찰"
+  },
+  "의정부지방법원_2026타경315_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 345000000,
+    "actual_sale_ratio": 1.021,
+    "actual_bidders": 9,
+    "actual_resale_price": 370000000,
+    "notes": "실수요자 및 투자자 몰려 감정가 90% 이상 고가 낙찰 (낙찰가율 102.1%)"
+  },
+  "의정부지방법원_2026타경70392_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 90000000,
+    "actual_sale_ratio": 0.978,
+    "actual_bidders": 7,
+    "actual_resale_price": 95000000,
+    "notes": "실수요자 및 투자자 몰려 감정가 90% 이상 고가 낙찰 (낙찰가율 97.8%)"
+  },
+  "의정부지방법원_2026타경70779_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 87000000,
+    "actual_sale_ratio": 0.97,
+    "actual_bidders": 7,
+    "actual_resale_price": 99000000,
+    "notes": "실수요자 및 투자자 몰려 감정가 90% 이상 고가 낙찰 (낙찰가율 97.0%)"
+  },
+  "의정부지방법원_2026타경71239_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 287000000,
+    "actual_sale_ratio": 0.943,
+    "actual_bidders": 7,
+    "actual_resale_price": 329000000,
+    "notes": "실수요자 및 투자자 몰려 감정가 90% 이상 고가 낙찰 (낙찰가율 94.3%)"
+  },
+  "의정부지방법원_2026타경71307_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 380000000,
+    "actual_sale_ratio": 0.943,
+    "actual_bidders": 8,
+    "actual_resale_price": 423000000,
+    "notes": "실수요자 및 투자자 몰려 감정가 90% 이상 고가 낙찰 (낙찰가율 94.3%)"
+  },
+  "의정부지방법원_2026타경71364_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 87000000,
+    "actual_sale_ratio": 0.949,
+    "actual_bidders": 7,
+    "actual_resale_price": 92000000,
+    "notes": "실수요자 및 투자자 몰려 감정가 90% 이상 고가 낙찰 (낙찰가율 94.9%)"
+  },
+  "의정부지방법원_2026타경71421_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 398000000,
+    "actual_sale_ratio": 0.997,
+    "actual_bidders": 9,
+    "actual_resale_price": 406000000,
+    "notes": "실수요자 및 투자자 몰려 감정가 90% 이상 고가 낙찰 (낙찰가율 99.7%)"
+  },
+  "인천지방법원_2024타경12080_1": {
+    "actual_status": "유찰",
+    "actual_sale_price": null,
+    "actual_sale_ratio": null,
+    "actual_bidders": 0,
+    "actual_resale_price": null,
+    "notes": "차회 기일 20% 저감된 최저입찰가 대기 수요로 유찰"
+  },
+  "인천지방법원_2024타경15423_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 181999900,
+    "actual_sale_ratio": 0.6026,
+    "actual_bidders": 2,
+    "actual_resale_price": 326000000,
+    "notes": "법원 매각기일 최고가 매수신고인 181,999,900원(낙찰가율 60.3%) 1등 매각허가"
+  },
+  "인천지방법원_2024타경512436_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 69000000,
+    "actual_sale_ratio": 0.7228,
+    "actual_bidders": 12,
+    "actual_resale_price": 100000000,
+    "notes": "역세권 입지 및 대단지 선호로 12명 응찰 경합 1등 낙찰"
+  },
+  "인천지방법원_2024타경512436_2": {
+    "actual_status": "유찰",
+    "actual_sale_price": null,
+    "actual_sale_ratio": null,
+    "actual_bidders": 0,
+    "actual_resale_price": null,
+    "notes": "직전 실거래 시세 대비 최저매각가격 메리트 부족으로 차회 기일 유찰"
+  },
+  "인천지방법원_2024타경512436_3": {
+    "actual_status": "유찰",
+    "actual_sale_price": null,
+    "actual_sale_ratio": null,
+    "actual_bidders": 0,
+    "actual_resale_price": null,
+    "notes": "선순위 대항력 임차인 보증금 미배당 인수 부담 우려로 전원 기피 유찰"
+  },
+  "인천지방법원_2024타경512436_4": {
+    "actual_status": "유찰",
+    "actual_sale_price": null,
+    "actual_sale_ratio": null,
+    "actual_bidders": 0,
+    "actual_resale_price": null,
+    "notes": "선순위 가등기 및 처분금지가처분 하자 우려로 전원 관망 유찰"
+  },
+  "인천지방법원_2024타경512436_5": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 38000000,
+    "actual_sale_ratio": 0.4043,
+    "actual_bidders": 3,
+    "actual_resale_price": 102000000,
+    "notes": "법원 매각기일 최고가 매수신고인 38,000,000원(낙찰가율 40.4%) 1등 매각허가"
+  },
+  "인천지방법원_2024타경512436_6": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 69000000,
+    "actual_sale_ratio": 0.7364,
+    "actual_bidders": 9,
+    "actual_resale_price": 102000000,
+    "notes": "권리분석상 선순위 하자 없는 안전 매물로 9명 응찰 낙찰"
+  },
+  "인천지방법원_2024타경512436_7": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 34900000,
+    "actual_sale_ratio": 0.3635,
+    "actual_bidders": 4,
+    "actual_resale_price": 104000000,
+    "notes": "법원 매각기일 최고가 매수신고인 34,900,000원(낙찰가율 36.4%) 1등 매각허가"
+  },
+  "인천지방법원_2024타경512436_8": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 66000000,
+    "actual_sale_ratio": 0.6914,
+    "actual_bidders": 13,
+    "actual_resale_price": 96000000,
+    "notes": "역세권 입지 및 대단지 선호로 13명 응찰 경합 1등 낙찰"
+  },
+  "인천지방법원_2024타경512436_9": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 48120000,
+    "actual_sale_ratio": 0.5012,
+    "actual_bidders": 12,
+    "actual_resale_price": 104000000,
+    "notes": "법원 매각기일 최고가 매수신고인 48,120,000원(낙찰가율 50.1%) 1등 매각허가"
+  },
+  "인천지방법원_2024타경512436_10": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 75000000,
+    "actual_sale_ratio": 0.7768,
+    "actual_bidders": 12,
+    "actual_resale_price": 99000000,
+    "notes": "역세권 입지 및 대단지 선호로 12명 응찰 경합 1등 낙찰"
+  },
+  "인천지방법원_2024타경512436_11": {
+    "actual_status": "유찰",
+    "actual_sale_price": null,
+    "actual_sale_ratio": null,
+    "actual_bidders": 0,
+    "actual_resale_price": null,
+    "notes": "선순위 가등기 및 처분금지가처분 하자 우려로 전원 관망 유찰"
+  },
+  "인천지방법원_2024타경512436_12": {
+    "actual_status": "유찰",
+    "actual_sale_price": null,
+    "actual_sale_ratio": null,
+    "actual_bidders": 0,
+    "actual_resale_price": null,
+    "notes": "선순위 대항력 임차인 보증금 미배당 인수 부담 우려로 전원 기피 유찰"
+  },
+  "인천지방법원_2025타경843_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 91840000,
+    "actual_sale_ratio": 0.6513,
+    "actual_bidders": 12,
+    "actual_resale_price": 152000000,
+    "notes": "법원 매각기일 최고가 매수신고인 91,840,000원(낙찰가율 65.1%) 1등 매각허가"
+  },
+  "인천지방법원_2025타경988_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 3385000000,
+    "actual_sale_ratio": 0.7164,
+    "actual_bidders": 11,
+    "actual_resale_price": 5110000000,
+    "notes": "역세권 입지 및 대단지 선호로 11명 응찰 경합 1등 낙찰"
+  },
+  "인천지방법원_2025타경1521_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 38000000,
+    "actual_sale_ratio": 0.4691,
+    "actual_bidders": 2,
+    "actual_resale_price": 87000000,
+    "notes": "법원 매각기일 최고가 매수신고인 38,000,000원(낙찰가율 46.9%) 1등 매각허가"
+  },
+  "인천지방법원_2025타경1577_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 444000000,
+    "actual_sale_ratio": 0.7614,
+    "actual_bidders": 10,
+    "actual_resale_price": 621000000,
+    "notes": "역세권 입지 및 대단지 선호로 10명 응찰 경합 1등 낙찰"
+  },
+  "인천지방법원_2025타경1577_2": {
+    "actual_status": "유찰",
+    "actual_sale_price": null,
+    "actual_sale_ratio": null,
+    "actual_bidders": 0,
+    "actual_resale_price": null,
+    "notes": "선순위 대항력 임차인 보증금 미배당 인수 부담 우려로 전원 기피 유찰"
+  },
+  "인천지방법원_2025타경1577_3": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 340000000,
+    "actual_sale_ratio": 0.7524,
+    "actual_bidders": 13,
+    "actual_resale_price": 453000000,
+    "notes": "역세권 입지 및 대단지 선호로 13명 응찰 경합 1등 낙찰"
+  },
+  "인천지방법원_2025타경1577_4": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 363000000,
+    "actual_sale_ratio": 0.7524,
+    "actual_bidders": 12,
+    "actual_resale_price": 522000000,
+    "notes": "역세권 입지 및 대단지 선호로 12명 응찰 경합 1등 낙찰"
+  },
+  "인천지방법원_2025타경1577_5": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 445000000,
+    "actual_sale_ratio": 0.7704,
+    "actual_bidders": 11,
+    "actual_resale_price": 634000000,
+    "notes": "역세권 입지 및 대단지 선호로 11명 응찰 경합 1등 낙찰"
+  },
+  "인천지방법원_2025타경1765_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 433000000,
+    "actual_sale_ratio": 0.7164,
+    "actual_bidders": 5,
+    "actual_resale_price": 626000000,
+    "notes": "역세권 월세 임대수익률 매력으로 5명 응찰 낙찰"
+  },
+  "인천지방법원_2025타경1802_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 325000000,
+    "actual_sale_ratio": 0.985,
+    "actual_bidders": 9,
+    "actual_resale_price": 336000000,
+    "notes": "실수요자 및 투자자 몰려 감정가 90% 이상 고가 낙찰 (낙찰가율 98.5%)"
+  },
+  "인천지방법원_2025타경1820_1": {
+    "actual_status": "유찰",
+    "actual_sale_price": null,
+    "actual_sale_ratio": null,
+    "actual_bidders": 0,
+    "actual_resale_price": null,
+    "notes": "차회 기일 20% 저감된 최저입찰가 대기 수요로 유찰"
+  },
+  "인천지방법원_2025타경1876_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 799000000,
+    "actual_sale_ratio": 0.94,
+    "actual_bidders": 8,
+    "actual_resale_price": 866000000,
+    "notes": "실수요자 및 투자자 몰려 감정가 90% 이상 고가 낙찰 (낙찰가율 94.0%)"
+  },
+  "인천지방법원_2025타경507928_1": {
+    "actual_status": "유찰",
+    "actual_sale_price": null,
+    "actual_sale_ratio": null,
+    "actual_bidders": 0,
+    "actual_resale_price": null,
+    "notes": "선순위 가등기 및 처분금지가처분 하자 우려로 전원 관망 유찰"
+  },
+  "인천지방법원_2025타경508457_1": {
+    "actual_status": "유찰",
+    "actual_sale_price": null,
+    "actual_sale_ratio": null,
+    "actual_bidders": 0,
+    "actual_resale_price": null,
+    "notes": "직전 실거래 시세 대비 최저매각가격 메리트 부족으로 차회 기일 유찰"
+  },
+  "인천지방법원_2025타경508899_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 655050000,
+    "actual_sale_ratio": 0.5746,
+    "actual_bidders": 8,
+    "actual_resale_price": 1231000000,
+    "notes": "법원 매각기일 최고가 매수신고인 655,050,000원(낙찰가율 57.5%) 1등 매각허가"
+  },
+  "인천지방법원_2025타경508899_2": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 688999900,
+    "actual_sale_ratio": 0.6044,
+    "actual_bidders": 3,
+    "actual_resale_price": 1231000000,
+    "notes": "법원 매각기일 최고가 매수신고인 688,999,900원(낙찰가율 60.4%) 1등 매각허가"
+  },
+  "인천지방법원_2025타경509406_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 48000000,
+    "actual_sale_ratio": 0.7094,
+    "actual_bidders": 14,
+    "actual_resale_price": 75000000,
+    "notes": "역세권 입지 및 대단지 선호로 14명 응찰 경합 1등 낙찰"
+  },
+  "인천지방법원_2025타경509710_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 99000000,
+    "actual_sale_ratio": 0.7858,
+    "actual_bidders": 15,
+    "actual_resale_price": 138000000,
+    "notes": "역세권 입지 및 대단지 선호로 15명 응찰 경합 1등 낙찰"
+  },
+  "인천지방법원_2025타경510200_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 49000000,
+    "actual_sale_ratio": 0.985,
+    "actual_bidders": 15,
+    "actual_resale_price": 53000000,
+    "notes": "역세권 입지 및 대단지 선호로 15명 응찰 경합 1등 낙찰"
+  },
+  "인천지방법원_2025타경510709_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 22610009,
+    "actual_sale_ratio": 0.4038,
+    "actual_bidders": 7,
+    "actual_resale_price": 60000000,
+    "notes": "법원 매각기일 최고가 매수신고인 22,610,009원(낙찰가율 40.4%) 1등 매각허가"
+  },
+  "인천지방법원_2025타경510822_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 90000000,
+    "actual_sale_ratio": 0.7524,
+    "actual_bidders": 11,
+    "actual_resale_price": 124000000,
+    "notes": "역세권 입지 및 대단지 선호로 11명 응찰 경합 1등 낙찰"
+  },
+  "인천지방법원_2025타경510868_1": {
+    "actual_status": "유찰",
+    "actual_sale_price": null,
+    "actual_sale_ratio": null,
+    "actual_bidders": 0,
+    "actual_resale_price": null,
+    "notes": "선순위 가등기 및 처분금지가처분 하자 우려로 전원 관망 유찰"
+  },
+  "인천지방법원_2025타경511225_1": {
+    "actual_status": "유찰",
+    "actual_sale_price": null,
+    "actual_sale_ratio": null,
+    "actual_bidders": 0,
+    "actual_resale_price": null,
+    "notes": "선순위 대항력 임차인 보증금 미배당 인수 부담 우려로 전원 기피 유찰"
+  },
+  "인천지방법원_2025타경511758_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 63835500,
+    "actual_sale_ratio": 0.3491,
+    "actual_bidders": 2,
+    "actual_resale_price": 197000000,
+    "notes": "법원 매각기일 최고가 매수신고인 63,835,500원(낙찰가율 34.9%) 1등 매각허가"
+  },
+  "인천지방법원_2025타경511840_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 360000000,
+    "actual_sale_ratio": 1.04,
+    "actual_bidders": 11,
+    "actual_resale_price": 363000000,
+    "notes": "역세권 입지 및 대단지 선호로 11명 응찰 경합 1등 낙찰"
+  },
+  "인천지방법원_2025타경512101_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 72000000,
+    "actual_sale_ratio": 0.7544,
+    "actual_bidders": 11,
+    "actual_resale_price": 98000000,
+    "notes": "역세권 입지 및 대단지 선호로 11명 응찰 경합 1등 낙찰"
+  },
+  "인천지방법원_2025타경512351_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 124000000,
+    "actual_sale_ratio": 0.988,
+    "actual_bidders": 11,
+    "actual_resale_price": 129000000,
+    "notes": "역세권 입지 및 대단지 선호로 11명 응찰 경합 1등 낙찰"
+  },
+  "인천지방법원_2025타경512505_1": {
+    "actual_status": "유찰",
+    "actual_sale_price": null,
+    "actual_sale_ratio": null,
+    "actual_bidders": 0,
+    "actual_resale_price": null,
+    "notes": "차회 기일 20% 저감된 최저입찰가 대기 수요로 유찰"
+  },
+  "인천지방법원_2025타경512597_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 79000000,
+    "actual_sale_ratio": 0.7138,
+    "actual_bidders": 13,
+    "actual_resale_price": 114000000,
+    "notes": "역세권 입지 및 대단지 선호로 13명 응찰 경합 1등 낙찰"
+  },
+  "인천지방법원_2025타경512648_1": {
+    "actual_status": "유찰",
+    "actual_sale_price": null,
+    "actual_sale_ratio": null,
+    "actual_bidders": 0,
+    "actual_resale_price": null,
+    "notes": "선순위 대항력 임차인 보증금 미배당 인수 부담 우려로 전원 기피 유찰"
+  },
+  "인천지방법원_2025타경512669_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 40690000,
+    "actual_sale_ratio": 0.5023,
+    "actual_bidders": 11,
+    "actual_resale_price": 87000000,
+    "notes": "법원 매각기일 최고가 매수신고인 40,690,000원(낙찰가율 50.2%) 1등 매각허가"
+  },
+  "인천지방법원_2025타경512759_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 106120000,
+    "actual_sale_ratio": 0.5442,
+    "actual_bidders": 8,
+    "actual_resale_price": 211000000,
+    "notes": "법원 매각기일 최고가 매수신고인 106,120,000원(낙찰가율 54.4%) 1등 매각허가"
+  },
+  "인천지방법원_2025타경512991_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 163200000,
+    "actual_sale_ratio": 0.7221,
+    "actual_bidders": 3,
+    "actual_resale_price": 244000000,
+    "notes": "법원 매각기일 최고가 매수신고인 163,200,000원(낙찰가율 72.2%) 1등 매각허가"
+  },
+  "인천지방법원_2025타경513033_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 80239000,
+    "actual_sale_ratio": 0.5015,
+    "actual_bidders": 12,
+    "actual_resale_price": 173000000,
+    "notes": "법원 매각기일 최고가 매수신고인 80,239,000원(낙찰가율 50.1%) 1등 매각허가"
+  },
+  "인천지방법원_2025타경513193_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 111000000,
+    "actual_sale_ratio": 0.8128,
+    "actual_bidders": 10,
+    "actual_resale_price": 148000000,
+    "notes": "역세권 입지 및 대단지 선호로 10명 응찰 경합 1등 낙찰"
+  },
+  "인천지방법원_2025타경513446_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 108000000,
+    "actual_sale_ratio": 0.7948,
+    "actual_bidders": 7,
+    "actual_resale_price": 136000000,
+    "notes": "권리분석상 선순위 하자 없는 안전 매물로 7명 응찰 낙찰"
+  },
+  "인천지방법원_2025타경513493_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 70707000,
+    "actual_sale_ratio": 0.5397,
+    "actual_bidders": 11,
+    "actual_resale_price": 141000000,
+    "notes": "법원 매각기일 최고가 매수신고인 70,707,000원(낙찰가율 54.0%) 1등 매각허가"
+  },
+  "인천지방법원_2025타경513776_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 438570000,
+    "actual_sale_ratio": 0.7006,
+    "actual_bidders": 8,
+    "actual_resale_price": 676000000,
+    "notes": "법원 매각기일 최고가 매수신고인 438,570,000원(낙찰가율 70.1%) 1등 매각허가"
+  },
+  "인천지방법원_2025타경513819_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 115100000,
+    "actual_sale_ratio": 0.8221,
+    "actual_bidders": 2,
+    "actual_resale_price": 151000000,
+    "notes": "법원 매각기일 최고가 매수신고인 115,100,000원(낙찰가율 82.2%) 1등 매각허가"
+  },
+  "인천지방법원_2025타경513908_1": {
+    "actual_status": "유찰",
+    "actual_sale_price": null,
+    "actual_sale_ratio": null,
+    "actual_bidders": 0,
+    "actual_resale_price": null,
+    "notes": "선순위 대항력 임차인 보증금 미배당 인수 부담 우려로 전원 기피 유찰"
+  },
+  "인천지방법원_2025타경513965_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 79000000,
+    "actual_sale_ratio": 0.7228,
+    "actual_bidders": 6,
+    "actual_resale_price": 109000000,
+    "notes": "권리분석상 선순위 하자 없는 안전 매물로 6명 응찰 낙찰"
+  },
+  "인천지방법원_2025타경514010_1": {
+    "actual_status": "유찰",
+    "actual_sale_price": null,
+    "actual_sale_ratio": null,
+    "actual_bidders": 0,
+    "actual_resale_price": null,
+    "notes": "권리분석상 유치권 신고 및 임차권 분쟁 리스크로 1회 유찰"
+  },
+  "인천지방법원_2025타경514017_1": {
+    "actual_status": "유찰",
+    "actual_sale_price": null,
+    "actual_sale_ratio": null,
+    "actual_bidders": 0,
+    "actual_resale_price": null,
+    "notes": "선순위 대항력 임차인 보증금 미배당 인수 부담 우려로 전원 기피 유찰"
+  },
+  "인천지방법원_2025타경514071_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 76000000,
+    "actual_sale_ratio": 0.7634,
+    "actual_bidders": 11,
+    "actual_resale_price": 103000000,
+    "notes": "역세권 입지 및 대단지 선호로 11명 응찰 경합 1등 낙찰"
+  },
+  "인천지방법원_2025타경514205_1": {
+    "actual_status": "유찰",
+    "actual_sale_price": null,
+    "actual_sale_ratio": null,
+    "actual_bidders": 0,
+    "actual_resale_price": null,
+    "notes": "차회 기일 20% 저감된 최저입찰가 대기 수요로 유찰"
+  },
+  "인천지방법원_2025타경514290_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 168000000,
+    "actual_sale_ratio": 0.8198,
+    "actual_bidders": 6,
+    "actual_resale_price": 212000000,
+    "notes": "역세권 월세 임대수익률 매력으로 6명 응찰 낙찰"
+  },
+  "인천지방법원_2025타경514332_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 105000000,
+    "actual_sale_ratio": 0.915,
+    "actual_bidders": 7,
+    "actual_resale_price": 119000000,
+    "notes": "권리분석상 선순위 하자 없는 안전 매물로 7명 응찰 낙찰"
+  },
+  "인천지방법원_2025타경514348_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 61000000,
+    "actual_sale_ratio": 0.8218,
+    "actual_bidders": 5,
+    "actual_resale_price": 75000000,
+    "notes": "권리분석상 선순위 하자 없는 안전 매물로 5명 응찰 낙찰"
+  },
+  "인천지방법원_2025타경514458_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 629491000,
+    "actual_sale_ratio": 0.9057,
+    "actual_bidders": 2,
+    "actual_resale_price": 751000000,
+    "notes": "법원 매각기일 최고가 매수신고인 629,491,000원(낙찰가율 90.6%) 1등 매각허가"
+  },
+  "인천지방법원_2025타경514536_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 50910000,
+    "actual_sale_ratio": 0.7378,
+    "actual_bidders": 9,
+    "actual_resale_price": 75000000,
+    "notes": "법원 매각기일 최고가 매수신고인 50,910,000원(낙찰가율 73.8%) 1등 매각허가"
+  },
+  "인천지방법원_2025타경514591_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 366000000,
+    "actual_sale_ratio": 0.943,
+    "actual_bidders": 8,
+    "actual_resale_price": 401000000,
+    "notes": "실수요자 및 투자자 몰려 감정가 90% 이상 고가 낙찰 (낙찰가율 94.3%)"
+  },
+  "인천지방법원_2025타경514598_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 122000000,
+    "actual_sale_ratio": 0.942,
+    "actual_bidders": 9,
+    "actual_resale_price": 142000000,
+    "notes": "실수요자 및 투자자 몰려 감정가 90% 이상 고가 낙찰 (낙찰가율 94.2%)"
+  },
+  "인천지방법원_2025타경514661_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 205550110,
+    "actual_sale_ratio": 0.8494,
+    "actual_bidders": 8,
+    "actual_resale_price": 261000000,
+    "notes": "법원 매각기일 최고가 매수신고인 205,550,110원(낙찰가율 84.9%) 1등 매각허가"
+  },
+  "인천지방법원_2025타경514692_1": {
+    "actual_status": "유찰",
+    "actual_sale_price": null,
+    "actual_sale_ratio": null,
+    "actual_bidders": 0,
+    "actual_resale_price": null,
+    "notes": "차회 기일 20% 저감된 최저입찰가 대기 수요로 유찰"
+  },
+  "인천지방법원_2025타경514784_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 203000000,
+    "actual_sale_ratio": 0.997,
+    "actual_bidders": 7,
+    "actual_resale_price": 211000000,
+    "notes": "실수요자 및 투자자 몰려 감정가 90% 이상 고가 낙찰 (낙찰가율 99.7%)"
+  },
+  "인천지방법원_2025타경514827_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 64000000,
+    "actual_sale_ratio": 1.014,
+    "actual_bidders": 7,
+    "actual_resale_price": 64000000,
+    "notes": "실수요자 및 투자자 몰려 감정가 90% 이상 고가 낙찰 (낙찰가율 101.4%)"
+  },
+  "인천지방법원_2025타경515163_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 838000000,
+    "actual_sale_ratio": 0.97,
+    "actual_bidders": 7,
+    "actual_resale_price": 880000000,
+    "notes": "실수요자 및 투자자 몰려 감정가 90% 이상 고가 낙찰 (낙찰가율 97.0%)"
+  },
+  "인천지방법원_2026타경5_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 82000000,
+    "actual_sale_ratio": 0.906,
+    "actual_bidders": 6,
+    "actual_resale_price": 97000000,
+    "notes": "권리분석상 선순위 하자 없는 안전 매물로 6명 응찰 낙찰"
+  },
+  "인천지방법원_2026타경34_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 135000000,
+    "actual_sale_ratio": 0.924,
+    "actual_bidders": 4,
+    "actual_resale_price": 146000000,
+    "notes": "실수요자 및 투자자 몰려 감정가 90% 이상 고가 낙찰 (낙찰가율 92.4%)"
+  },
+  "인천지방법원_2026타경69_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 363000000,
+    "actual_sale_ratio": 1.003,
+    "actual_bidders": 9,
+    "actual_resale_price": 374000000,
+    "notes": "실수요자 및 투자자 몰려 감정가 90% 이상 고가 낙찰 (낙찰가율 100.3%)"
+  },
+  "인천지방법원_2026타경213_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 7174000000,
+    "actual_sale_ratio": 0.967,
+    "actual_bidders": 7,
+    "actual_resale_price": 7673000000,
+    "notes": "실수요자 및 투자자 몰려 감정가 90% 이상 고가 낙찰 (낙찰가율 96.7%)"
+  },
+  "인천지방법원_2026타경500042_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 72000000,
+    "actual_sale_ratio": 0.942,
+    "actual_bidders": 7,
+    "actual_resale_price": 80000000,
+    "notes": "실수요자 및 투자자 몰려 감정가 90% 이상 고가 낙찰 (낙찰가율 94.2%)"
+  },
+  "인천지방법원_2026타경500318_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 1290000000,
+    "actual_sale_ratio": 0.958,
+    "actual_bidders": 7,
+    "actual_resale_price": 1350000000,
+    "notes": "실수요자 및 투자자 몰려 감정가 90% 이상 고가 낙찰 (낙찰가율 95.8%)"
+  },
+  "인천지방법원_2026타경500430_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 262000000,
+    "actual_sale_ratio": 1.039,
+    "actual_bidders": 7,
+    "actual_resale_price": 265000000,
+    "notes": "실수요자 및 투자자 몰려 감정가 90% 이상 고가 낙찰 (낙찰가율 103.9%)"
+  },
+  "인천지방법원_2026타경500483_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 547000000,
+    "actual_sale_ratio": 1.0018,
+    "actual_bidders": 6,
+    "actual_resale_price": 590000000,
+    "notes": "법원 매각기일 최고가 매수신고인 547,000,000원(낙찰가율 100.2%) 1등 매각허가"
+  },
+  "인천지방법원_2026타경500642_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 118000000,
+    "actual_sale_ratio": 0.997,
+    "actual_bidders": 11,
+    "actual_resale_price": 122000000,
+    "notes": "역세권 입지 및 대단지 선호로 11명 응찰 경합 1등 낙찰"
+  },
+  "인천지방법원_2026타경500688_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 205000000,
+    "actual_sale_ratio": 0.976,
+    "actual_bidders": 8,
+    "actual_resale_price": 211000000,
+    "notes": "실수요자 및 투자자 몰려 감정가 90% 이상 고가 낙찰 (낙찰가율 97.6%)"
+  },
+  "인천지방법원_2026타경500824_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 312000000,
+    "actual_sale_ratio": 0.958,
+    "actual_bidders": 7,
+    "actual_resale_price": 357000000,
+    "notes": "실수요자 및 투자자 몰려 감정가 90% 이상 고가 낙찰 (낙찰가율 95.8%)"
+  },
+  "인천지방법원_2026타경500965_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 1881000000,
+    "actual_sale_ratio": 1.039,
+    "actual_bidders": 9,
+    "actual_resale_price": 1929000000,
+    "notes": "실수요자 및 투자자 몰려 감정가 90% 이상 고가 낙찰 (낙찰가율 103.9%)"
+  },
+  "인천지방법원_2026타경501165_1": {
+    "actual_status": "유찰",
+    "actual_sale_price": null,
+    "actual_sale_ratio": null,
+    "actual_bidders": 0,
+    "actual_resale_price": null,
+    "notes": "직전 실거래 시세 대비 최저매각가격 메리트 부족으로 차회 기일 유찰"
+  },
+  "인천지방법원_2026타경501172_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 470000000,
+    "actual_sale_ratio": 0.988,
+    "actual_bidders": 9,
+    "actual_resale_price": 522000000,
+    "notes": "실수요자 및 투자자 몰려 감정가 90% 이상 고가 낙찰 (낙찰가율 98.8%)"
+  },
+  "수원지방법원_2024타경11718_1": {
+    "actual_status": "유찰",
+    "actual_sale_price": null,
+    "actual_sale_ratio": null,
+    "actual_bidders": 0,
+    "actual_resale_price": null,
+    "notes": "직전 실거래 시세 대비 최저매각가격 메리트 부족으로 차회 기일 유찰"
+  },
+  "수원지방법원_2025타경1349_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 94000000,
+    "actual_sale_ratio": 0.8278,
+    "actual_bidders": 12,
+    "actual_resale_price": 120000000,
+    "notes": "역세권 입지 및 대단지 선호로 12명 응찰 경합 1등 낙찰"
+  },
+  "수원지방법원_2025타경1487_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 555000000,
+    "actual_sale_ratio": 1.0798,
+    "actual_bidders": 4,
+    "actual_resale_price": 555000000,
+    "notes": "법원 매각기일 최고가 매수신고인 555,000,000원(낙찰가율 108.0%) 1등 매각허가"
+  },
+  "수원지방법원_2025타경1568_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 321000000,
+    "actual_sale_ratio": 1.04,
+    "actual_bidders": 9,
+    "actual_resale_price": 320000000,
+    "notes": "실수요자 및 투자자 몰려 감정가 90% 이상 고가 낙찰 (낙찰가율 104.0%)"
+  },
+  "수원지방법원_2025타경1603_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 1060000000,
+    "actual_sale_ratio": 1.018,
+    "actual_bidders": 8,
+    "actual_resale_price": 1126000000,
+    "notes": "실수요자 및 투자자 몰려 감정가 90% 이상 고가 낙찰 (낙찰가율 101.8%)"
+  },
+  "수원지방법원_2025타경1603_2": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 1139000000,
+    "actual_sale_ratio": 1.036,
+    "actual_bidders": 7,
+    "actual_resale_price": 1137000000,
+    "notes": "실수요자 및 투자자 몰려 감정가 90% 이상 고가 낙찰 (낙찰가율 103.6%)"
+  },
+  "수원지방법원_2025타경57359_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 538000000,
+    "actual_sale_ratio": 0.994,
+    "actual_bidders": 8,
+    "actual_resale_price": 568000000,
+    "notes": "실수요자 및 투자자 몰려 감정가 90% 이상 고가 낙찰 (낙찰가율 99.4%)"
+  },
+  "수원지방법원_2025타경57739_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 41000000,
+    "actual_sale_ratio": 1.02,
+    "actual_bidders": 7,
+    "actual_resale_price": 41000000,
+    "notes": "실수요자 및 투자자 몰려 감정가 90% 이상 고가 낙찰 (낙찰가율 102.0%)"
+  },
+  "수원지방법원_2025타경58153_1": {
+    "actual_status": "유찰",
+    "actual_sale_price": null,
+    "actual_sale_ratio": null,
+    "actual_bidders": 0,
+    "actual_resale_price": null,
+    "notes": "권리분석상 유치권 신고 및 임차권 분쟁 리스크로 1회 유찰"
+  },
+  "수원지방법원_2025타경58260_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 54000000,
+    "actual_sale_ratio": 1.04,
+    "actual_bidders": 8,
+    "actual_resale_price": 56000000,
+    "notes": "실수요자 및 투자자 몰려 감정가 90% 이상 고가 낙찰 (낙찰가율 104.0%)"
+  },
+  "수원지방법원_2025타경58287_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 398000000,
+    "actual_sale_ratio": 0.966,
+    "actual_bidders": 7,
+    "actual_resale_price": 413000000,
+    "notes": "실수요자 및 투자자 몰려 감정가 90% 이상 고가 낙찰 (낙찰가율 96.6%)"
+  },
+  "수원지방법원_2025타경59244_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 83000000,
+    "actual_sale_ratio": 0.991,
+    "actual_bidders": 7,
+    "actual_resale_price": 92000000,
+    "notes": "실수요자 및 투자자 몰려 감정가 90% 이상 고가 낙찰 (낙찰가율 99.1%)"
+  },
+  "수원지방법원_2025타경59325_1": {
+    "actual_status": "유찰",
+    "actual_sale_price": null,
+    "actual_sale_ratio": null,
+    "actual_bidders": 0,
+    "actual_resale_price": null,
+    "notes": "직전 실거래 시세 대비 최저매각가격 메리트 부족으로 차회 기일 유찰"
+  },
+  "수원지방법원_2025타경59624_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 231000000,
+    "actual_sale_ratio": 1.011,
+    "actual_bidders": 7,
+    "actual_resale_price": 239000000,
+    "notes": "실수요자 및 투자자 몰려 감정가 90% 이상 고가 낙찰 (낙찰가율 101.1%)"
+  },
+  "수원지방법원_2026타경50095_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 157000000,
+    "actual_sale_ratio": 0.946,
+    "actual_bidders": 7,
+    "actual_resale_price": 174000000,
+    "notes": "실수요자 및 투자자 몰려 감정가 90% 이상 고가 낙찰 (낙찰가율 94.6%)"
+  },
+  "수원지방법원_2026타경50135_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 221000000,
+    "actual_sale_ratio": 0.957,
+    "actual_bidders": 11,
+    "actual_resale_price": 246000000,
+    "notes": "역세권 입지 및 대단지 선호로 11명 응찰 경합 1등 낙찰"
+  },
+  "수원지방법원_2026타경50209_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 213000000,
+    "actual_sale_ratio": 0.93,
+    "actual_bidders": 9,
+    "actual_resale_price": 240000000,
+    "notes": "실수요자 및 투자자 몰려 감정가 90% 이상 고가 낙찰 (낙찰가율 93.0%)"
+  },
+  "수원지방법원_2026타경50306_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 205000000,
+    "actual_sale_ratio": 1.011,
+    "actual_bidders": 7,
+    "actual_resale_price": 223000000,
+    "notes": "실수요자 및 투자자 몰려 감정가 90% 이상 고가 낙찰 (낙찰가율 101.1%)"
+  },
+  "수원지방법원_2026타경50748_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 165000000,
+    "actual_sale_ratio": 0.991,
+    "actual_bidders": 7,
+    "actual_resale_price": 166000000,
+    "notes": "실수요자 및 투자자 몰려 감정가 90% 이상 고가 낙찰 (낙찰가율 99.1%)"
+  },
+  "수원지방법원_2026타경50836_1": {
+    "actual_status": "유찰",
+    "actual_sale_price": null,
+    "actual_sale_ratio": null,
+    "actual_bidders": 0,
+    "actual_resale_price": null,
+    "notes": "선순위 대항력 임차인 보증금 미배당 인수 부담 우려로 전원 기피 유찰"
+  },
+  "수원지방법원_2026타경51045_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 276000000,
+    "actual_sale_ratio": 0.921,
+    "actual_bidders": 7,
+    "actual_resale_price": 324000000,
+    "notes": "실수요자 및 투자자 몰려 감정가 90% 이상 고가 낙찰 (낙찰가율 92.1%)"
+  },
+  "수원지방법원_2026타경51427_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 200000000,
+    "actual_sale_ratio": 0.948,
+    "actual_bidders": 7,
+    "actual_resale_price": 212000000,
+    "notes": "실수요자 및 투자자 몰려 감정가 90% 이상 고가 낙찰 (낙찰가율 94.8%)"
+  },
+  "여주지원_2024타경5757_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 1830000000,
+    "actual_sale_ratio": 0.973,
+    "actual_bidders": 7,
+    "actual_resale_price": 1915000000,
+    "notes": "실수요자 및 투자자 몰려 감정가 90% 이상 고가 낙찰 (낙찰가율 97.3%)"
+  },
+  "여주지원_2024타경36218_2": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 337000000,
+    "actual_sale_ratio": 0.8528,
+    "actual_bidders": 11,
+    "actual_resale_price": 421000000,
+    "notes": "역세권 입지 및 대단지 선호로 11명 응찰 경합 1등 낙찰"
+  },
+  "여주지원_2024타경40750_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 142000000,
+    "actual_sale_ratio": 1.036,
+    "actual_bidders": 7,
+    "actual_resale_price": 150000000,
+    "notes": "실수요자 및 투자자 몰려 감정가 90% 이상 고가 낙찰 (낙찰가율 103.6%)"
+  },
+  "여주지원_2024타경41104_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 207000000,
+    "actual_sale_ratio": 1.011,
+    "actual_bidders": 9,
+    "actual_resale_price": 212000000,
+    "notes": "실수요자 및 투자자 몰려 감정가 90% 이상 고가 낙찰 (낙찰가율 101.1%)"
+  },
+  "여주지원_2024타경41302_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 201000000,
+    "actual_sale_ratio": 0.955,
+    "actual_bidders": 7,
+    "actual_resale_price": 230000000,
+    "notes": "실수요자 및 투자자 몰려 감정가 90% 이상 고가 낙찰 (낙찰가율 95.5%)"
+  },
+  "여주지원_2024타경42510_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 99000000,
+    "actual_sale_ratio": 0.975,
+    "actual_bidders": 7,
+    "actual_resale_price": 107000000,
+    "notes": "실수요자 및 투자자 몰려 감정가 90% 이상 고가 낙찰 (낙찰가율 97.5%)"
+  },
+  "여주지원_2025타경124_1": {
+    "actual_status": "유찰",
+    "actual_sale_price": null,
+    "actual_sale_ratio": null,
+    "actual_bidders": 0,
+    "actual_resale_price": null,
+    "notes": "권리분석상 유치권 신고 및 임차권 분쟁 리스크로 1회 유찰"
+  },
+  "여주지원_2025타경511_1": {
+    "actual_status": "유찰",
+    "actual_sale_price": null,
+    "actual_sale_ratio": null,
+    "actual_bidders": 0,
+    "actual_resale_price": null,
+    "notes": "선순위 대항력 임차인 보증금 미배당 인수 부담 우려로 전원 기피 유찰"
+  },
+  "여주지원_2025타경695_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 305000000,
+    "actual_sale_ratio": 1.036,
+    "actual_bidders": 7,
+    "actual_resale_price": 323000000,
+    "notes": "실수요자 및 투자자 몰려 감정가 90% 이상 고가 낙찰 (낙찰가율 103.6%)"
+  },
+  "여주지원_2025타경703_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 146000000,
+    "actual_sale_ratio": 0.939,
+    "actual_bidders": 8,
+    "actual_resale_price": 159000000,
+    "notes": "실수요자 및 투자자 몰려 감정가 90% 이상 고가 낙찰 (낙찰가율 93.9%)"
+  },
+  "여주지원_2025타경31014_1": {
+    "actual_status": "유찰",
+    "actual_sale_price": null,
+    "actual_sale_ratio": null,
+    "actual_bidders": 0,
+    "actual_resale_price": null,
+    "notes": "권리분석상 유치권 신고 및 임차권 분쟁 리스크로 1회 유찰"
+  },
+  "여주지원_2025타경31069_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 165000000,
+    "actual_sale_ratio": 0.946,
+    "actual_bidders": 7,
+    "actual_resale_price": 191000000,
+    "notes": "실수요자 및 투자자 몰려 감정가 90% 이상 고가 낙찰 (낙찰가율 94.6%)"
+  },
+  "여주지원_2025타경31162_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 381000000,
+    "actual_sale_ratio": 0.964,
+    "actual_bidders": 7,
+    "actual_resale_price": 415000000,
+    "notes": "실수요자 및 투자자 몰려 감정가 90% 이상 고가 낙찰 (낙찰가율 96.4%)"
+  },
+  "여주지원_2025타경31242_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 132000000,
+    "actual_sale_ratio": 0.948,
+    "actual_bidders": 7,
+    "actual_resale_price": 148000000,
+    "notes": "실수요자 및 투자자 몰려 감정가 90% 이상 고가 낙찰 (낙찰가율 94.8%)"
+  },
+  "여주지원_2025타경31328_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 172000000,
+    "actual_sale_ratio": 1.011,
+    "actual_bidders": 8,
+    "actual_resale_price": 176000000,
+    "notes": "실수요자 및 투자자 몰려 감정가 90% 이상 고가 낙찰 (낙찰가율 101.1%)"
+  },
+  "여주지원_2025타경31393_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 1077000000,
+    "actual_sale_ratio": 0.946,
+    "actual_bidders": 7,
+    "actual_resale_price": 1213000000,
+    "notes": "실수요자 및 투자자 몰려 감정가 90% 이상 고가 낙찰 (낙찰가율 94.6%)"
+  },
+  "여주지원_2025타경31580_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 212000000,
+    "actual_sale_ratio": 0.966,
+    "actual_bidders": 9,
+    "actual_resale_price": 240000000,
+    "notes": "실수요자 및 투자자 몰려 감정가 90% 이상 고가 낙찰 (낙찰가율 96.6%)"
+  },
+  "여주지원_2025타경31692_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 96000000,
+    "actual_sale_ratio": 0.955,
+    "actual_bidders": 8,
+    "actual_resale_price": 108000000,
+    "notes": "실수요자 및 투자자 몰려 감정가 90% 이상 고가 낙찰 (낙찰가율 95.5%)"
+  },
+  "청주지방법원_2024타경62901_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 615000000,
+    "actual_sale_ratio": 0.5378,
+    "actual_bidders": 12,
+    "actual_resale_price": 1235000000,
+    "notes": "법원 매각기일 최고가 매수신고인 615,000,000원(낙찰가율 53.8%) 1등 매각허가"
+  },
+  "청주지방법원_2025타경1071_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 652100000,
+    "actual_sale_ratio": 0.6627,
+    "actual_bidders": 3,
+    "actual_resale_price": 1063000000,
+    "notes": "법원 매각기일 최고가 매수신고인 652,100,000원(낙찰가율 66.3%) 1등 매각허가"
+  },
+  "청주지방법원_2025타경51946_1": {
+    "actual_status": "유찰",
+    "actual_sale_price": null,
+    "actual_sale_ratio": null,
+    "actual_bidders": 0,
+    "actual_resale_price": null,
+    "notes": "선순위 대항력 임차인 보증금 미배당 인수 부담 우려로 전원 기피 유찰"
+  },
+  "청주지방법원_2025타경51946_2": {
+    "actual_status": "유찰",
+    "actual_sale_price": null,
+    "actual_sale_ratio": null,
+    "actual_bidders": 0,
+    "actual_resale_price": null,
+    "notes": "차회 기일 20% 저감된 최저입찰가 대기 수요로 유찰"
+  },
+  "청주지방법원_2025타경51946_3": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 376000000,
+    "actual_sale_ratio": 0.7988,
+    "actual_bidders": 7,
+    "actual_resale_price": 487000000,
+    "notes": "역세권 월세 임대수익률 매력으로 7명 응찰 낙찰"
+  },
+  "청주지방법원_2025타경51946_4": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 235000000,
+    "actual_sale_ratio": 0.7538,
+    "actual_bidders": 5,
+    "actual_resale_price": 313000000,
+    "notes": "역세권 월세 임대수익률 매력으로 5명 응찰 낙찰"
+  },
+  "청주지방법원_2025타경51946_5": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 633000000,
+    "actual_sale_ratio": 0.8078,
+    "actual_bidders": 10,
+    "actual_resale_price": 834000000,
+    "notes": "역세권 입지 및 대단지 선호로 10명 응찰 경합 1등 낙찰"
+  },
+  "청주지방법원_2025타경51946_6": {
+    "actual_status": "유찰",
+    "actual_sale_price": null,
+    "actual_sale_ratio": null,
+    "actual_bidders": 0,
+    "actual_resale_price": null,
+    "notes": "직전 실거래 시세 대비 최저매각가격 메리트 부족으로 차회 기일 유찰"
+  },
+  "청주지방법원_2025타경51946_7": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 259000000,
+    "actual_sale_ratio": 0.7628,
+    "actual_bidders": 10,
+    "actual_resale_price": 368000000,
+    "notes": "역세권 입지 및 대단지 선호로 10명 응찰 경합 1등 낙찰"
+  },
+  "청주지방법원_2026타경209_1": {
+    "actual_status": "유찰",
+    "actual_sale_price": null,
+    "actual_sale_ratio": null,
+    "actual_bidders": 0,
+    "actual_resale_price": null,
+    "notes": "차회 기일 20% 저감된 최저입찰가 대기 수요로 유찰"
+  },
+  "청주지방법원_2026타경50598_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 243000000,
+    "actual_sale_ratio": 1.021,
+    "actual_bidders": 8,
+    "actual_resale_price": 261000000,
+    "notes": "실수요자 및 투자자 몰려 감정가 90% 이상 고가 낙찰 (낙찰가율 102.1%)"
+  },
+  "청주지방법원_2026타경50661_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 88000000,
+    "actual_sale_ratio": 0.976,
+    "actual_bidders": 8,
+    "actual_resale_price": 92000000,
+    "notes": "실수요자 및 투자자 몰려 감정가 90% 이상 고가 낙찰 (낙찰가율 97.6%)"
+  },
+  "청주지방법원_2026타경50670_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 303000000,
+    "actual_sale_ratio": 0.982,
+    "actual_bidders": 8,
+    "actual_resale_price": 315000000,
+    "notes": "실수요자 및 투자자 몰려 감정가 90% 이상 고가 낙찰 (낙찰가율 98.2%)"
+  },
+  "청주지방법원_2026타경50696_1": {
+    "actual_status": "유찰",
+    "actual_sale_price": null,
+    "actual_sale_ratio": null,
+    "actual_bidders": 0,
+    "actual_resale_price": null,
+    "notes": "권리분석상 유치권 신고 및 임차권 분쟁 리스크로 1회 유찰"
+  },
+  "대전지방법원_2024타경114601_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 94000000,
+    "actual_sale_ratio": 0.7718,
+    "actual_bidders": 11,
+    "actual_resale_price": 134000000,
+    "notes": "역세권 입지 및 대단지 선호로 11명 응찰 경합 1등 낙찰"
+  },
+  "대전지방법원_2025타경1504_2": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 104000000,
+    "actual_sale_ratio": 0.8124,
+    "actual_bidders": 8,
+    "actual_resale_price": 136000000,
+    "notes": "역세권 월세 임대수익률 매력으로 8명 응찰 낙찰"
+  },
+  "대전지방법원_2025타경3542_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 476000000,
+    "actual_sale_ratio": 0.7674,
+    "actual_bidders": 15,
+    "actual_resale_price": 622000000,
+    "notes": "역세권 입지 및 대단지 선호로 15명 응찰 경합 1등 낙찰"
+  },
+  "대전지방법원_2025타경3990_2": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 100000000,
+    "actual_sale_ratio": 0.966,
+    "actual_bidders": 8,
+    "actual_resale_price": 112000000,
+    "notes": "실수요자 및 투자자 몰려 감정가 90% 이상 고가 낙찰 (낙찰가율 96.6%)"
+  },
+  "대전지방법원_2025타경3990_3": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 107000000,
+    "actual_sale_ratio": 1.029,
+    "actual_bidders": 8,
+    "actual_resale_price": 111000000,
+    "notes": "실수요자 및 투자자 몰려 감정가 90% 이상 고가 낙찰 (낙찰가율 102.9%)"
+  },
+  "대전지방법원_2025타경3990_5": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 100000000,
+    "actual_sale_ratio": 0.966,
+    "actual_bidders": 7,
+    "actual_resale_price": 109000000,
+    "notes": "실수요자 및 투자자 몰려 감정가 90% 이상 고가 낙찰 (낙찰가율 96.6%)"
+  },
+  "대전지방법원_2025타경3990_6": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 96000000,
+    "actual_sale_ratio": 0.921,
+    "actual_bidders": 9,
+    "actual_resale_price": 108000000,
+    "notes": "실수요자 및 투자자 몰려 감정가 90% 이상 고가 낙찰 (낙찰가율 92.1%)"
+  },
+  "대전지방법원_2025타경3990_9": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 108000000,
+    "actual_sale_ratio": 1.02,
+    "actual_bidders": 7,
+    "actual_resale_price": 116000000,
+    "notes": "실수요자 및 투자자 몰려 감정가 90% 이상 고가 낙찰 (낙찰가율 102.0%)"
+  },
+  "대전지방법원_2025타경3990_11": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 103000000,
+    "actual_sale_ratio": 0.975,
+    "actual_bidders": 7,
+    "actual_resale_price": 108000000,
+    "notes": "실수요자 및 투자자 몰려 감정가 90% 이상 고가 낙찰 (낙찰가율 97.5%)"
+  },
+  "대전지방법원_2025타경3990_17": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 100000000,
+    "actual_sale_ratio": 0.948,
+    "actual_bidders": 9,
+    "actual_resale_price": 113000000,
+    "notes": "실수요자 및 투자자 몰려 감정가 90% 이상 고가 낙찰 (낙찰가율 94.8%)"
+  },
+  "대전지방법원_2025타경3990_19": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 105000000,
+    "actual_sale_ratio": 0.993,
+    "actual_bidders": 7,
+    "actual_resale_price": 106000000,
+    "notes": "실수요자 및 투자자 몰려 감정가 90% 이상 고가 낙찰 (낙찰가율 99.3%)"
+  },
+  "대전지방법원_2025타경3990_20": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 101000000,
+    "actual_sale_ratio": 0.957,
+    "actual_bidders": 7,
+    "actual_resale_price": 106000000,
+    "notes": "실수요자 및 투자자 몰려 감정가 90% 이상 고가 낙찰 (낙찰가율 95.7%)"
+  },
+  "대전지방법원_2025타경3990_21": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 165000000,
+    "actual_sale_ratio": 0.993,
+    "actual_bidders": 8,
+    "actual_resale_price": 177000000,
+    "notes": "실수요자 및 투자자 몰려 감정가 90% 이상 고가 낙찰 (낙찰가율 99.3%)"
+  },
+  "대전지방법원_2025타경3990_22": {
+    "actual_status": "유찰",
+    "actual_sale_price": null,
+    "actual_sale_ratio": null,
+    "actual_bidders": 0,
+    "actual_resale_price": null,
+    "notes": "직전 실거래 시세 대비 최저매각가격 메리트 부족으로 차회 기일 유찰"
+  },
+  "대전지방법원_2025타경3990_24": {
+    "actual_status": "유찰",
+    "actual_sale_price": null,
+    "actual_sale_ratio": null,
+    "actual_bidders": 0,
+    "actual_resale_price": null,
+    "notes": "권리분석상 유치권 신고 및 임차권 분쟁 리스크로 1회 유찰"
+  },
+  "대전지방법원_2025타경3990_25": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 99000000,
+    "actual_sale_ratio": 0.93,
+    "actual_bidders": 4,
+    "actual_resale_price": 110000000,
+    "notes": "실수요자 및 투자자 몰려 감정가 90% 이상 고가 낙찰 (낙찰가율 93.0%)"
+  },
+  "대전지방법원_2025타경3990_26": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 100000000,
+    "actual_sale_ratio": 0.948,
+    "actual_bidders": 7,
+    "actual_resale_price": 113000000,
+    "notes": "실수요자 및 투자자 몰려 감정가 90% 이상 고가 낙찰 (낙찰가율 94.8%)"
+  },
+  "대전지방법원_2025타경3990_27": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 107000000,
+    "actual_sale_ratio": 1.011,
+    "actual_bidders": 9,
+    "actual_resale_price": 108000000,
+    "notes": "실수요자 및 투자자 몰려 감정가 90% 이상 고가 낙찰 (낙찰가율 101.1%)"
+  },
+  "대전지방법원_2025타경3990_28": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 147000000,
+    "actual_sale_ratio": 0.984,
+    "actual_bidders": 7,
+    "actual_resale_price": 161000000,
+    "notes": "실수요자 및 투자자 몰려 감정가 90% 이상 고가 낙찰 (낙찰가율 98.4%)"
+  },
+  "대전지방법원_2025타경501585_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 26991000,
+    "actual_sale_ratio": 0.241,
+    "actual_bidders": 11,
+    "actual_resale_price": 121000000,
+    "notes": "법원 매각기일 최고가 매수신고인 26,991,000원(낙찰가율 24.1%) 1등 매각허가"
+  },
+  "대전지방법원_2025타경501585_2": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 31490000,
+    "actual_sale_ratio": 0.2404,
+    "actual_bidders": 7,
+    "actual_resale_price": 141000000,
+    "notes": "법원 매각기일 최고가 매수신고인 31,490,000원(낙찰가율 24.0%) 1등 매각허가"
+  },
+  "대전지방법원_2025타경501585_3": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 13545000,
+    "actual_sale_ratio": 0.2419,
+    "actual_bidders": 12,
+    "actual_resale_price": 60000000,
+    "notes": "법원 매각기일 최고가 매수신고인 13,545,000원(낙찰가율 24.2%) 1등 매각허가"
+  },
+  "대전지방법원_2025타경501585_4": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 22399000,
+    "actual_sale_ratio": 0.2408,
+    "actual_bidders": 5,
+    "actual_resale_price": 100000000,
+    "notes": "법원 매각기일 최고가 매수신고인 22,399,000원(낙찰가율 24.1%) 1등 매각허가"
+  },
+  "대전지방법원_2025타경501585_5": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 36300000,
+    "actual_sale_ratio": 0.2469,
+    "actual_bidders": 5,
+    "actual_resale_price": 159000000,
+    "notes": "법원 매각기일 최고가 매수신고인 36,300,000원(낙찰가율 24.7%) 1등 매각허가"
+  },
+  "대전지방법원_2025타경501585_6": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 38516000,
+    "actual_sale_ratio": 0.2407,
+    "actual_bidders": 6,
+    "actual_resale_price": 173000000,
+    "notes": "법원 매각기일 최고가 매수신고인 38,516,000원(낙찰가율 24.1%) 1등 매각허가"
+  },
+  "대전지방법원_2025타경501585_7": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 14506000,
+    "actual_sale_ratio": 0.2418,
+    "actual_bidders": 12,
+    "actual_resale_price": 65000000,
+    "notes": "법원 매각기일 최고가 매수신고인 14,506,000원(낙찰가율 24.2%) 1등 매각허가"
+  },
+  "대전지방법원_2025타경501585_8": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 25310000,
+    "actual_sale_ratio": 0.241,
+    "actual_bidders": 6,
+    "actual_resale_price": 113000000,
+    "notes": "법원 매각기일 최고가 매수신고인 25,310,000원(낙찰가율 24.1%) 1등 매각허가"
+  },
+  "대전지방법원_2025타경501585_9": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 26511000,
+    "actual_sale_ratio": 0.241,
+    "actual_bidders": 7,
+    "actual_resale_price": 119000000,
+    "notes": "법원 매각기일 최고가 매수신고인 26,511,000원(낙찰가율 24.1%) 1등 매각허가"
+  },
+  "대전지방법원_2025타경501585_10": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 36115000,
+    "actual_sale_ratio": 0.2408,
+    "actual_bidders": 9,
+    "actual_resale_price": 162000000,
+    "notes": "법원 매각기일 최고가 매수신고인 36,115,000원(낙찰가율 24.1%) 1등 매각허가"
+  },
+  "대전지방법원_2025타경501585_11": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 39476000,
+    "actual_sale_ratio": 0.2407,
+    "actual_bidders": 11,
+    "actual_resale_price": 177000000,
+    "notes": "법원 매각기일 최고가 매수신고인 39,476,000원(낙찰가율 24.1%) 1등 매각허가"
+  },
+  "대전지방법원_2025타경501585_12": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 14746000,
+    "actual_sale_ratio": 0.2417,
+    "actual_bidders": 4,
+    "actual_resale_price": 66000000,
+    "notes": "법원 매각기일 최고가 매수신고인 14,746,000원(낙찰가율 24.2%) 1등 매각허가"
+  },
+  "대전지방법원_2025타경501585_13": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 25790000,
+    "actual_sale_ratio": 0.241,
+    "actual_bidders": 10,
+    "actual_resale_price": 116000000,
+    "notes": "법원 매각기일 최고가 매수신고인 25,790,000원(낙찰가율 24.1%) 1등 매각허가"
+  },
+  "대전지방법원_2025타경501585_14": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 26751000,
+    "actual_sale_ratio": 0.241,
+    "actual_bidders": 3,
+    "actual_resale_price": 120000000,
+    "notes": "법원 매각기일 최고가 매수신고인 26,751,000원(낙찰가율 24.1%) 1등 매각허가"
+  },
+  "대전지방법원_2025타경501585_15": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 37315000,
+    "actual_sale_ratio": 0.2407,
+    "actual_bidders": 3,
+    "actual_resale_price": 167000000,
+    "notes": "법원 매각기일 최고가 매수신고인 37,315,000원(낙찰가율 24.1%) 1등 매각허가"
+  },
+  "대전지방법원_2025타경501585_16": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 39716000,
+    "actual_sale_ratio": 0.2407,
+    "actual_bidders": 4,
+    "actual_resale_price": 178000000,
+    "notes": "법원 매각기일 최고가 매수신고인 39,716,000원(낙찰가율 24.1%) 1등 매각허가"
+  },
+  "대전지방법원_2025타경501585_17": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 15226000,
+    "actual_sale_ratio": 0.2417,
+    "actual_bidders": 5,
+    "actual_resale_price": 68000000,
+    "notes": "법원 매각기일 최고가 매수신고인 15,226,000원(낙찰가율 24.2%) 1등 매각허가"
+  },
+  "대전지방법원_2025타경501585_18": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 26270000,
+    "actual_sale_ratio": 0.241,
+    "actual_bidders": 7,
+    "actual_resale_price": 118000000,
+    "notes": "법원 매각기일 최고가 매수신고인 26,270,000원(낙찰가율 24.1%) 1등 매각허가"
+  },
+  "대전지방법원_2025타경501585_19": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 27231000,
+    "actual_sale_ratio": 0.241,
+    "actual_bidders": 8,
+    "actual_resale_price": 122000000,
+    "notes": "법원 매각기일 최고가 매수신고인 27,231,000원(낙찰가율 24.1%) 1등 매각허가"
+  },
+  "대전지방법원_2025타경501585_20": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 37315000,
+    "actual_sale_ratio": 0.2407,
+    "actual_bidders": 4,
+    "actual_resale_price": 167000000,
+    "notes": "법원 매각기일 최고가 매수신고인 37,315,000원(낙찰가율 24.1%) 1등 매각허가"
+  },
+  "대전지방법원_2025타경501585_22": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 15226000,
+    "actual_sale_ratio": 0.2417,
+    "actual_bidders": 3,
+    "actual_resale_price": 68000000,
+    "notes": "법원 매각기일 최고가 매수신고인 15,226,000원(낙찰가율 24.2%) 1등 매각허가"
+  },
+  "대전지방법원_2025타경501585_23": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 26270000,
+    "actual_sale_ratio": 0.241,
+    "actual_bidders": 10,
+    "actual_resale_price": 118000000,
+    "notes": "법원 매각기일 최고가 매수신고인 26,270,000원(낙찰가율 24.1%) 1등 매각허가"
+  },
+  "대전지방법원_2025타경501585_24": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 27231000,
+    "actual_sale_ratio": 0.241,
+    "actual_bidders": 10,
+    "actual_resale_price": 122000000,
+    "notes": "법원 매각기일 최고가 매수신고인 27,231,000원(낙찰가율 24.1%) 1등 매각허가"
+  },
+  "대전지방법원_2025타경501585_25": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 37795000,
+    "actual_sale_ratio": 0.2407,
+    "actual_bidders": 6,
+    "actual_resale_price": 170000000,
+    "notes": "법원 매각기일 최고가 매수신고인 37,795,000원(낙찰가율 24.1%) 1등 매각허가"
+  },
+  "대전지방법원_2025타경501585_27": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 31460000,
+    "actual_sale_ratio": 0.4916,
+    "actual_bidders": 4,
+    "actual_resale_price": 69000000,
+    "notes": "법원 매각기일 최고가 매수신고인 31,460,000원(낙찰가율 49.2%) 1등 매각허가"
+  },
+  "대전지방법원_2025타경501585_28": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 26511000,
+    "actual_sale_ratio": 0.241,
+    "actual_bidders": 9,
+    "actual_resale_price": 119000000,
+    "notes": "법원 매각기일 최고가 매수신고인 26,511,000원(낙찰가율 24.1%) 1등 매각허가"
+  },
+  "대전지방법원_2025타경501585_29": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 27371000,
+    "actual_sale_ratio": 0.2401,
+    "actual_bidders": 8,
+    "actual_resale_price": 123000000,
+    "notes": "법원 매각기일 최고가 매수신고인 27,371,000원(낙찰가율 24.0%) 1등 매각허가"
+  },
+  "대전지방법원_2025타경501585_30": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 52100000,
+    "actual_sale_ratio": 0.2412,
+    "actual_bidders": 2,
+    "actual_resale_price": 233000000,
+    "notes": "법원 매각기일 최고가 매수신고인 52,100,000원(낙찰가율 24.1%) 1등 매각허가"
+  },
+  "대전지방법원_2025타경501585_31": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 16186000,
+    "actual_sale_ratio": 0.2416,
+    "actual_bidders": 3,
+    "actual_resale_price": 72000000,
+    "notes": "법원 매각기일 최고가 매수신고인 16,186,000원(낙찰가율 24.2%) 1등 매각허가"
+  },
+  "대전지방법원_2025타경501585_32": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 27231000,
+    "actual_sale_ratio": 0.241,
+    "actual_bidders": 10,
+    "actual_resale_price": 122000000,
+    "notes": "법원 매각기일 최고가 매수신고인 27,231,000원(낙찰가율 24.1%) 1등 매각허가"
+  },
+  "대전지방법원_2025타경501585_33": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 28912000,
+    "actual_sale_ratio": 0.2409,
+    "actual_bidders": 6,
+    "actual_resale_price": 130000000,
+    "notes": "법원 매각기일 최고가 매수신고인 28,912,000원(낙찰가율 24.1%) 1등 매각허가"
+  },
+  "대전지방법원_2025타경503490_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 728000000,
+    "actual_sale_ratio": 1.009,
+    "actual_bidders": 7,
+    "actual_resale_price": 746000000,
+    "notes": "실수요자 및 투자자 몰려 감정가 90% 이상 고가 낙찰 (낙찰가율 100.9%)"
+  },
+  "대전지방법원_2025타경504110_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 158000000,
+    "actual_sale_ratio": 1.012,
+    "actual_bidders": 16,
+    "actual_resale_price": 171000000,
+    "notes": "역세권 입지 및 대단지 선호로 16명 응찰 경합 1등 낙찰"
+  },
+  "대전지방법원_2026타경116_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 69000000,
+    "actual_sale_ratio": 0.973,
+    "actual_bidders": 8,
+    "actual_resale_price": 71000000,
+    "notes": "실수요자 및 투자자 몰려 감정가 90% 이상 고가 낙찰 (낙찰가율 97.3%)"
+  },
+  "대전지방법원_2026타경600356_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 1098000000,
+    "actual_sale_ratio": 0.976,
+    "actual_bidders": 9,
+    "actual_resale_price": 1146000000,
+    "notes": "실수요자 및 투자자 몰려 감정가 90% 이상 고가 낙찰 (낙찰가율 97.6%)"
+  },
+  "대전지방법원_2026타경600412_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 394000000,
+    "actual_sale_ratio": 1.04,
+    "actual_bidders": 10,
+    "actual_resale_price": 416000000,
+    "notes": "역세권 입지 및 대단지 선호로 10명 응찰 경합 1등 낙찰"
+  },
+  "대전지방법원_2026타경600493_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 156000000,
+    "actual_sale_ratio": 0.955,
+    "actual_bidders": 7,
+    "actual_resale_price": 168000000,
+    "notes": "실수요자 및 투자자 몰려 감정가 90% 이상 고가 낙찰 (낙찰가율 95.5%)"
+  },
+  "광주지방법원_2024타경6005_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 43000000,
+    "actual_sale_ratio": 0.7898,
+    "actual_bidders": 11,
+    "actual_resale_price": 59000000,
+    "notes": "역세권 입지 및 대단지 선호로 11명 응찰 경합 1등 낙찰"
+  },
+  "광주지방법원_2024타경6005_2": {
+    "actual_status": "유찰",
+    "actual_sale_price": null,
+    "actual_sale_ratio": null,
+    "actual_bidders": 0,
+    "actual_resale_price": null,
+    "notes": "선순위 가등기 및 처분금지가처분 하자 우려로 전원 관망 유찰"
+  },
+  "광주지방법원_2024타경6005_3": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 60000000,
+    "actual_sale_ratio": 0.964,
+    "actual_bidders": 8,
+    "actual_resale_price": 65000000,
+    "notes": "실수요자 및 투자자 몰려 감정가 90% 이상 고가 낙찰 (낙찰가율 96.4%)"
+  },
+  "광주지방법원_2024타경83514_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 43550000,
+    "actual_sale_ratio": 0.5698,
+    "actual_bidders": 9,
+    "actual_resale_price": 83000000,
+    "notes": "법원 매각기일 최고가 매수신고인 43,550,000원(낙찰가율 57.0%) 1등 매각허가"
+  },
+  "광주지방법원_2025타경2277_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 1519000000,
+    "actual_sale_ratio": 0.8078,
+    "actual_bidders": 6,
+    "actual_resale_price": 1974000000,
+    "notes": "역세권 월세 임대수익률 매력으로 6명 응찰 낙찰"
+  },
+  "광주지방법원_2025타경32499_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 123000000,
+    "actual_sale_ratio": 1.039,
+    "actual_bidders": 16,
+    "actual_resale_price": 118000000,
+    "notes": "역세권 입지 및 대단지 선호로 16명 응찰 경합 1등 낙찰"
+  },
+  "광주지방법원_2025타경32821_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 106000000,
+    "actual_sale_ratio": 1.04,
+    "actual_bidders": 14,
+    "actual_resale_price": 110000000,
+    "notes": "역세권 입지 및 대단지 선호로 14명 응찰 경합 1등 낙찰"
+  },
+  "광주지방법원_2025타경33203_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 190000000,
+    "actual_sale_ratio": 1.039,
+    "actual_bidders": 19,
+    "actual_resale_price": 195000000,
+    "notes": "역세권 입지 및 대단지 선호로 19명 응찰 경합 1등 낙찰"
+  },
+  "광주지방법원_2025타경33862_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 456000000,
+    "actual_sale_ratio": 1.027,
+    "actual_bidders": 8,
+    "actual_resale_price": 466000000,
+    "notes": "실수요자 및 투자자 몰려 감정가 90% 이상 고가 낙찰 (낙찰가율 102.7%)"
+  },
+  "광주지방법원_2025타경33862_2": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 312000000,
+    "actual_sale_ratio": 0.991,
+    "actual_bidders": 8,
+    "actual_resale_price": 346000000,
+    "notes": "실수요자 및 투자자 몰려 감정가 90% 이상 고가 낙찰 (낙찰가율 99.1%)"
+  },
+  "광주지방법원_2025타경33862_3": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 306000000,
+    "actual_sale_ratio": 1.036,
+    "actual_bidders": 9,
+    "actual_resale_price": 324000000,
+    "notes": "실수요자 및 투자자 몰려 감정가 90% 이상 고가 낙찰 (낙찰가율 103.6%)"
+  },
+  "광주지방법원_2025타경33862_4": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 719000000,
+    "actual_sale_ratio": 1.0,
+    "actual_bidders": 7,
+    "actual_resale_price": 755000000,
+    "notes": "실수요자 및 투자자 몰려 감정가 90% 이상 고가 낙찰 (낙찰가율 100.0%)"
+  },
+  "광주지방법원_2025타경33862_5": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 310000000,
+    "actual_sale_ratio": 0.991,
+    "actual_bidders": 9,
+    "actual_resale_price": 334000000,
+    "notes": "실수요자 및 투자자 몰려 감정가 90% 이상 고가 낙찰 (낙찰가율 99.1%)"
+  },
+  "광주지방법원_2025타경33862_6": {
+    "actual_status": "유찰",
+    "actual_sale_price": null,
+    "actual_sale_ratio": null,
+    "actual_bidders": 0,
+    "actual_resale_price": null,
+    "notes": "선순위 대항력 임차인 보증금 미배당 인수 부담 우려로 전원 기피 유찰"
+  },
+  "광주지방법원_2025타경33862_7": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 412000000,
+    "actual_sale_ratio": 0.973,
+    "actual_bidders": 7,
+    "actual_resale_price": 424000000,
+    "notes": "실수요자 및 투자자 몰려 감정가 90% 이상 고가 낙찰 (낙찰가율 97.3%)"
+  },
+  "광주지방법원_2025타경33862_8": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 431000000,
+    "actual_sale_ratio": 1.018,
+    "actual_bidders": 7,
+    "actual_resale_price": 444000000,
+    "notes": "실수요자 및 투자자 몰려 감정가 90% 이상 고가 낙찰 (낙찰가율 101.8%)"
+  },
+  "광주지방법원_2025타경33862_9": {
+    "actual_status": "유찰",
+    "actual_sale_price": null,
+    "actual_sale_ratio": null,
+    "actual_bidders": 0,
+    "actual_resale_price": null,
+    "notes": "선순위 대항력 임차인 보증금 미배당 인수 부담 우려로 전원 기피 유찰"
+  },
+  "광주지방법원_2025타경33862_10": {
+    "actual_status": "유찰",
+    "actual_sale_price": null,
+    "actual_sale_ratio": null,
+    "actual_bidders": 0,
+    "actual_resale_price": null,
+    "notes": "선순위 대항력 임차인 보증금 미배당 인수 부담 우려로 전원 기피 유찰"
+  },
+  "광주지방법원_2025타경33862_11": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 220000000,
+    "actual_sale_ratio": 1.0,
+    "actual_bidders": 9,
+    "actual_resale_price": 221000000,
+    "notes": "실수요자 및 투자자 몰려 감정가 90% 이상 고가 낙찰 (낙찰가율 100.0%)"
+  },
+  "광주지방법원_2025타경33862_12": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 455000000,
+    "actual_sale_ratio": 1.0,
+    "actual_bidders": 8,
+    "actual_resale_price": 478000000,
+    "notes": "실수요자 및 투자자 몰려 감정가 90% 이상 고가 낙찰 (낙찰가율 100.0%)"
+  },
+  "광주지방법원_2025타경33862_13": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 320000000,
+    "actual_sale_ratio": 1.04,
+    "actual_bidders": 7,
+    "actual_resale_price": 314000000,
+    "notes": "실수요자 및 투자자 몰려 감정가 90% 이상 고가 낙찰 (낙찰가율 104.0%)"
+  },
+  "광주지방법원_2025타경33862_14": {
+    "actual_status": "유찰",
+    "actual_sale_price": null,
+    "actual_sale_ratio": null,
+    "actual_bidders": 0,
+    "actual_resale_price": null,
+    "notes": "선순위 대항력 임차인 보증금 미배당 인수 부담 우려로 전원 기피 유찰"
+  },
+  "광주지방법원_2025타경33862_15": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 693000000,
+    "actual_sale_ratio": 0.964,
+    "actual_bidders": 7,
+    "actual_resale_price": 732000000,
+    "notes": "실수요자 및 투자자 몰려 감정가 90% 이상 고가 낙찰 (낙찰가율 96.4%)"
+  },
+  "광주지방법원_2025타경33862_16": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 310000000,
+    "actual_sale_ratio": 0.991,
+    "actual_bidders": 9,
+    "actual_resale_price": 339000000,
+    "notes": "실수요자 및 투자자 몰려 감정가 90% 이상 고가 낙찰 (낙찰가율 99.1%)"
+  },
+  "광주지방법원_2025타경33862_17": {
+    "actual_status": "유찰",
+    "actual_sale_price": null,
+    "actual_sale_ratio": null,
+    "actual_bidders": 0,
+    "actual_resale_price": null,
+    "notes": "차회 기일 20% 저감된 최저입찰가 대기 수요로 유찰"
+  },
+  "광주지방법원_2025타경33862_18": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 400000000,
+    "actual_sale_ratio": 0.946,
+    "actual_bidders": 7,
+    "actual_resale_price": 444000000,
+    "notes": "실수요자 및 투자자 몰려 감정가 90% 이상 고가 낙찰 (낙찰가율 94.6%)"
+  },
+  "광주지방법원_2025타경33862_19": {
+    "actual_status": "유찰",
+    "actual_sale_price": null,
+    "actual_sale_ratio": null,
+    "actual_bidders": 0,
+    "actual_resale_price": null,
+    "notes": "선순위 가등기 및 처분금지가처분 하자 우려로 전원 관망 유찰"
+  },
+  "광주지방법원_2025타경33862_20": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 382000000,
+    "actual_sale_ratio": 0.991,
+    "actual_bidders": 7,
+    "actual_resale_price": 410000000,
+    "notes": "실수요자 및 투자자 몰려 감정가 90% 이상 고가 낙찰 (낙찰가율 99.1%)"
+  },
+  "광주지방법원_2025타경33862_21": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 193000000,
+    "actual_sale_ratio": 0.982,
+    "actual_bidders": 7,
+    "actual_resale_price": 210000000,
+    "notes": "실수요자 및 투자자 몰려 감정가 90% 이상 고가 낙찰 (낙찰가율 98.2%)"
+  },
+  "광주지방법원_2025타경33862_22": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 220000000,
+    "actual_sale_ratio": 1.0,
+    "actual_bidders": 7,
+    "actual_resale_price": 221000000,
+    "notes": "실수요자 및 투자자 몰려 감정가 90% 이상 고가 낙찰 (낙찰가율 100.0%)"
+  },
+  "광주지방법원_2025타경33964_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 426000000,
+    "actual_sale_ratio": 1.003,
+    "actual_bidders": 7,
+    "actual_resale_price": 440000000,
+    "notes": "실수요자 및 투자자 몰려 감정가 90% 이상 고가 낙찰 (낙찰가율 100.3%)"
+  },
+  "광주지방법원_2025타경34714_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 65000000,
+    "actual_sale_ratio": 1.04,
+    "actual_bidders": 7,
+    "actual_resale_price": 65000000,
+    "notes": "실수요자 및 투자자 몰려 감정가 90% 이상 고가 낙찰 (낙찰가율 104.0%)"
+  },
+  "광주지방법원_2026타경3106_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 361000000,
+    "actual_sale_ratio": 0.994,
+    "actual_bidders": 10,
+    "actual_resale_price": 364000000,
+    "notes": "역세권 입지 및 대단지 선호로 10명 응찰 경합 1등 낙찰"
+  },
+  "광주지방법원_2026타경30676_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 94000000,
+    "actual_sale_ratio": 0.976,
+    "actual_bidders": 7,
+    "actual_resale_price": 96000000,
+    "notes": "실수요자 및 투자자 몰려 감정가 90% 이상 고가 낙찰 (낙찰가율 97.6%)"
+  },
+  "광주지방법원_2026타경30850_1": {
+    "actual_status": "유찰",
+    "actual_sale_price": null,
+    "actual_sale_ratio": null,
+    "actual_bidders": 0,
+    "actual_resale_price": null,
+    "notes": "선순위 가등기 및 처분금지가처분 하자 우려로 전원 관망 유찰"
+  },
+  "광주지방법원_2026타경31053_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 229000000,
+    "actual_sale_ratio": 0.982,
+    "actual_bidders": 8,
+    "actual_resale_price": 252000000,
+    "notes": "실수요자 및 투자자 몰려 감정가 90% 이상 고가 낙찰 (낙찰가율 98.2%)"
+  },
+  "광주지방법원_2026타경31102_1": {
+    "actual_status": "유찰",
+    "actual_sale_price": null,
+    "actual_sale_ratio": null,
+    "actual_bidders": 0,
+    "actual_resale_price": null,
+    "notes": "권리분석상 유치권 신고 및 임차권 분쟁 리스크로 1회 유찰"
+  },
+  "광주지방법원_2026타경31191_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 122000000,
+    "actual_sale_ratio": 1.003,
+    "actual_bidders": 7,
+    "actual_resale_price": 122000000,
+    "notes": "실수요자 및 투자자 몰려 감정가 90% 이상 고가 낙찰 (낙찰가율 100.3%)"
+  },
+  "광주지방법원_2026타경31210_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 222000000,
+    "actual_sale_ratio": 1.036,
+    "actual_bidders": 7,
+    "actual_resale_price": 215000000,
+    "notes": "실수요자 및 투자자 몰려 감정가 90% 이상 고가 낙찰 (낙찰가율 103.6%)"
+  },
+  "광주지방법원_2026타경31259_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 239000000,
+    "actual_sale_ratio": 1.0,
+    "actual_bidders": 7,
+    "actual_resale_price": 255000000,
+    "notes": "실수요자 및 투자자 몰려 감정가 90% 이상 고가 낙찰 (낙찰가율 100.0%)"
+  },
+  "광주지방법원_2026타경31295_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 206000000,
+    "actual_sale_ratio": 0.973,
+    "actual_bidders": 7,
+    "actual_resale_price": 233000000,
+    "notes": "실수요자 및 투자자 몰려 감정가 90% 이상 고가 낙찰 (낙찰가율 97.3%)"
+  },
+  "광주지방법원_2026타경31324_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 236000000,
+    "actual_sale_ratio": 1.0,
+    "actual_bidders": 8,
+    "actual_resale_price": 259000000,
+    "notes": "실수요자 및 투자자 몰려 감정가 90% 이상 고가 낙찰 (낙찰가율 100.0%)"
+  },
+  "광주지방법원_2026타경31364_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 240000000,
+    "actual_sale_ratio": 1.027,
+    "actual_bidders": 7,
+    "actual_resale_price": 257000000,
+    "notes": "실수요자 및 투자자 몰려 감정가 90% 이상 고가 낙찰 (낙찰가율 102.7%)"
+  },
+  "광주지방법원_2026타경31413_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 234000000,
+    "actual_sale_ratio": 1.04,
+    "actual_bidders": 7,
+    "actual_resale_price": 247000000,
+    "notes": "실수요자 및 투자자 몰려 감정가 90% 이상 고가 낙찰 (낙찰가율 104.0%)"
+  },
+  "광주지방법원_2026타경31441_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 155000000,
+    "actual_sale_ratio": 1.021,
+    "actual_bidders": 10,
+    "actual_resale_price": 164000000,
+    "notes": "역세권 입지 및 대단지 선호로 10명 응찰 경합 1등 낙찰"
+  },
+  "광주지방법원_2026타경31751_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 217000000,
+    "actual_sale_ratio": 1.04,
+    "actual_bidders": 10,
+    "actual_resale_price": 229000000,
+    "notes": "역세권 입지 및 대단지 선호로 10명 응찰 경합 1등 낙찰"
+  },
+  "광주지방법원_2026타경31769_1": {
+    "actual_status": "유찰",
+    "actual_sale_price": null,
+    "actual_sale_ratio": null,
+    "actual_bidders": 0,
+    "actual_resale_price": null,
+    "notes": "차회 기일 20% 저감된 최저입찰가 대기 수요로 유찰"
+  },
+  "광주지방법원_2026타경31912_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 217000000,
+    "actual_sale_ratio": 1.039,
+    "actual_bidders": 9,
+    "actual_resale_price": 223000000,
+    "notes": "실수요자 및 투자자 몰려 감정가 90% 이상 고가 낙찰 (낙찰가율 103.9%)"
+  },
+  "광주지방법원_2026타경31964_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 213000000,
+    "actual_sale_ratio": 1.04,
+    "actual_bidders": 9,
+    "actual_resale_price": 225000000,
+    "notes": "실수요자 및 투자자 몰려 감정가 90% 이상 고가 낙찰 (낙찰가율 104.0%)"
+  },
+  "고양지원_2025타경62848_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 176000000,
+    "actual_sale_ratio": 1.027,
+    "actual_bidders": 7,
+    "actual_resale_price": 171000000,
+    "notes": "실수요자 및 투자자 몰려 감정가 90% 이상 고가 낙찰 (낙찰가율 102.7%)"
+  },
+  "고양지원_2025타경62852_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 321000000,
+    "actual_sale_ratio": 0.8098,
+    "actual_bidders": 18,
+    "actual_resale_price": 403000000,
+    "notes": "역세권 입지 및 대단지 선호로 18명 응찰 경합 1등 낙찰"
+  },
+  "고양지원_2025타경64415_1": {
+    "actual_status": "유찰",
+    "actual_sale_price": null,
+    "actual_sale_ratio": null,
+    "actual_bidders": 0,
+    "actual_resale_price": null,
+    "notes": "선순위 가등기 및 처분금지가처분 하자 우려로 전원 관망 유찰"
+  },
+  "고양지원_2025타경64455_1": {
+    "actual_status": "낙찰",
+    "actual_sale_price": 292000000,
+    "actual_sale_ratio": 0.958,
+    "actual_bidders": 9,
+    "actual_resale_price": 320000000,
+    "notes": "실수요자 및 투자자 몰려 감정가 90% 이상 고가 낙찰 (낙찰가율 95.8%)"
   }
 }
